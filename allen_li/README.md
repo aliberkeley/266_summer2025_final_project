@@ -1,3 +1,5 @@
+Add your work/notebooks here!
+
 # TODO
 - Test [pre-trained roberta model](https://huggingface.co/MidhunKanadan/roberta-large-fallacy-classification) on logic and logicClimate dataset (baseline model, higher priority)
   - Imbalanced class distribution in Logic and LogicClimate datasets and different classes. Drop minority classes or oversample?
