@@ -4,7 +4,9 @@ Allen Li, Arthur Kang, Skylar Wang
 
 ## Datasets:
 [LFUD (for fine-tuning)](https://github.com/YandaGo/LFUD/blob/main/LFUD.csv)
+
 [Logic](https://github.com/causalNLP/logical-fallacy/blob/main/data/edu_all.csv)
+
 [LogicClimate](https://github.com/causalNLP/logical-fallacy/blob/main/data/climate_all.csv)
 
 
