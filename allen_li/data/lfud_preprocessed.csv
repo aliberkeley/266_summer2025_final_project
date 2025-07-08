@@ -1,0 +1,1201 @@
+input,output
+"All electronic products need electricity. Electronics are part of my family. Therefore, everything in my house needs electricity.",faulty generalization
+"Since all electronic products need electricity, the increase in electricity has led to the popularization of electronics.",false causality
+All electronic products function because they utilize electricity. Such utilizations of electricity are attributed to the fact that all electronic products need electricity.,circular reasoning
+"Most people think that all electronic products need electricity, therefore, it is an undeniable fact.",ad populum
+"""Either every electronic item operates using electricity, or it becomes nonfunctional without it.""",false dilemma
+"All electronic products need electricity, but the bigger issue is that motor vehicles also need petrol to operate.",fallacy of relevance
+"John claims that all electronic products need electricity. But John failed his physics class in high school. Therefore, his claim is not true.",ad hominem
+You should buy this electronic product. It will really impress your friends and make them think you're on the leading edge of technology.,appeal to emotion
+"John: All electronic products need electricity. Mary: So you are saying without electricity, we might as well throw away all our devices? Therefore, your claim that all electronic products need electricity is absurd.",fallacy of extension
+"Experts at the Institute of Electrical Engineers say all electronics need electricity, so we should totally trust it.",fallacy of credibility
+"No one can prove that electronic products can work without electricity, then it confirms that they all need electricity.",intentional fallacy
+"If a gadget qualifies as an electronic product, it will require electricity. The gadget does require electricity. Consequently, the device is classified as an electronic product.",deductive fallacy
+"All flowers don't stay open forever. Roses are a type of plants. Therefore, all plants do not stay open forever.",faulty generalization
+"When I stop looking at them, the flowers close. Therefore, the flowers withered because I didn't look at them.",false causality
+Flowers do not bloom perennially because all flowers don't stay open forever.,circular reasoning
+"Most people think that all flowers don't stay open forever, therefore it must be true.",ad populum
+"""All flowers either perish eventually or they must not be legitimate flowers.""",false dilemma
+"All flowers don't stay open forever, but let's focus on the more pressing issues like deforestation and not on natural life cycles.",fallacy of relevance
+"John says that all flowers don't stay open forever. But John failed in botany. Therefore, his claim is not true.",ad hominem
+You must believe that all flowers don't stay open forever. Think of the sadness and disappointment you feel when you see a wilted flower - that emotion alone should convince you it's true.,appeal to emotion
+Alex: All flowers don't stay open forever. Jamie: So you're saying that all flowers die instantly after they bloom?,fallacy of extension
+"Gardeners claims that all flowers don't stay open forever. Gardeners are experts in the field concerning flowers. Therefore, the statement that all flowers don't stay open forever should be believed.",fallacy of credibility
+"Since nobody can show me a flower that stays open forever, all flowers don't stay open forever.",intentional fallacy
+"If all flowers are roses, they don't stay open forever. All flowers don't stay open forever. Therefore, all flowers are roses.",deductive fallacy
+"Everyone in my family has never been to Europe. My family is a group of Americans, therefore, all Americans have never been to Europe.",faulty generalization
+Everyone in my family has never been to Europe. This must be why none of us have ever contracted a European disease.,false causality
+No one in my family has been to Europe because everyone in my family has never been to Europe.,circular reasoning
+"Considering that none of my family members have visited Europe, it is safe to say that Europe is not worth visiting.",ad populum
+"""Either my family's financial limitations are stopping them from visiting Europe, or they have a severe dislike for the culture there.""",false dilemma
+"Everyone in my family has never been to Europe, but the real issue is the lack of affordable housing in our city.",fallacy of relevance
+"Jake claims that everyone in his family has never been to Europe. But Jake is an uneducated man, so his claim must be false.",ad hominem
+"Since everyone in my family has never been to Europe, you should feel very sorry and sympathetic for us and support our travel fund.",appeal to emotion
+"Person A: Everyone in my family has never been to Europe. Person B: Oh, so your family hates European culture and doesn't appreciate their history?",fallacy of extension
+"My sister, a world-traveling expert, says Europe is  not worth a visit. Therefore, we must believe her thar Europe is not worth visiting.",fallacy of credibility
+"Since no one in my family has proven they visited Europe, everyone in my family has never been to Europe.",intentional fallacy
+"If my family could not save sufficient funds, a trip to Europe would not be feasible. As yet, Everyone in my family has never been to Europe, thus implying that none have saved an adequate amount of money.",deductive fallacy
+"As is known, all people should obey the rules of the road. So everyone should obey all of the rules.",faulty generalization
+"After people started to obey the rules of the road, there were fewer accidents. Therefore, obedience to the rules of the road is the only cause of decrease in road accidents.",false causality
+People should obey the rules of the road because the rules of the road should be obeyed by people.,circular reasoning
+"Most people think that obeying the rules of the road is crucial, so it must be the correct behaviour.",ad populum
+"""All individuals must adhere to traffic laws, otherwise they are lawbreakers who ought to be imprisoned on the spot.""",false dilemma
+"All people should obey the rules of the road, but what we really need to discuss is the decline in respect for authorities.",fallacy of relevance
+"John claims that all people should obey the rules of the road. But John has received several speeding tickets in the past. Therefore, it's not necessary to obey the rules of the road.",ad hominem
+"Think about the grieving mother who lost her child in a tragic accident. It's absolutely heart-wrenching. You don't want to cause such sorrow, so you must obey the rules of the road.",appeal to emotion
+"Person A: All people should obey the rules of the road.   Person B: So you think everyone should follow every single rule without question or deviation?   This may might create robots, not humans.   Therefore, the idea of obeying all road rules is absurd.",fallacy of extension
+"The National Highway Traffic Safety Administration claims that all people should obey the rules of the road. Given that they are experts on road safety, therefore, everyone should obey the rules of the road.",fallacy of credibility
+"There are no reports stating that someone had issues not obeying the road rules; hence, all people should obey the rules of the road.",intentional fallacy
+"If all people obey the rules of the road, then there will be no accidents. There are no accidents. Therefore, all people obey the rules of the road.",deductive fallacy
+"All plants need nutrients, so plants need everything.",faulty generalization
+My plant died after I forgot to fertilize it last week. Obviously the lack of nutrients killed it.,false causality
+Plants require nutrients because nutrients are a requirement for all plants.,circular reasoning
+"A lot of people believe that all plants need nutrients. Therefore, this statement must be true.",ad populum
+"""All plants either require nutrients to survive or succumb to inevitable death.""",false dilemma
+"All plants need nutrients, but we should deplete our global fossil fuel reserves before worrying about plant health.",fallacy of relevance
+"Bob is claiming that all plants need nutrients. But Bob is a high school dropout. Therefore, his claim is not true.",ad hominem
+"Think of how sad and lifeless a plant would get if you deny it of nutrients. It could die, and you wouldn't want that, would you?",appeal to emotion
+"Scientist A: All plants need nutrients. Scientist B: So you're saying plants can't survive without a constant injection of vitamins and minerals, like a patient in a hospital?",fallacy of extension
+"The most famous scientist disagree that plants need nutrients, so this idea must be not correct.",fallacy of credibility
+"Nobody can prove plants don't require nutrients; hence, it's a fact that all plants need nutrients.",intentional fallacy
+"If all plants require nutrients, then all organisms require nutrients. All organisms require nutrients. Hence, all plants require nutrients.",deductive fallacy
+"Most museums will be closed on Mondays. Museums are a type of cultural institution. Therefore, all cultural institutions will be closed on Mondays.",faulty generalization
+"Most museums are closed on Mondays, therefore Mondays cause museums to close.",false causality
+Most museums will be closed on Mondays because on Mondays most museums are closed.,circular reasoning
+"Many people believe most museums will be closed on Mondays, therefore it's a fact.",ad populum
+"""Most museums will be closed on Mondays either due to low visitor turnout, or due to their disregard for public interest.""",false dilemma
+"Most museums will be closed on Mondays, but we should focus more on the fact that libraries are not open 24/7.",fallacy of relevance
+"John states that most museums will be closed on Mondays, but we shouldn't believe this, after all, John is a drop-out.",ad hominem
+Can't you see the sadness in the eyes of those children when they're told that they can't visit the museum on Monday because it's closed? This is why all museums should stay open on Mondays.,appeal to emotion
+Person A: Most museums will be closed on Mondays. Person B: So you're saying that museums just completely abandon their responsibilities on the first day of the week?,fallacy of extension
+"Renowned Museum curators disagree the claim that most museums will be closed on Mondays. Being experts in the field of museum operations, their words should be believed.",fallacy of credibility
+"There hasn't been any evidence of a museum open on a Monday, so it must be true that most museums are closed.",intentional fallacy
+"Given that most museums will be closed if it is Monday, and that majority of the museums are indeed closed, we can only conclude that today is Monday.",deductive fallacy
+"Some students do not take their studies seriously. These students are part of our city's school district. Therefore, no students in our city's school district take their studies seriously.",faulty generalization
+"Sometimes, some students do not study seriously and they fail their tests. Clearly, their failure must be caused by being not serious.",false causality
+Some students are not serious about their studies because they do not focus on their studies.,circular reasoning
+"Many people believe that some students do not take their studies seriously, therefore this must be a universal truth.",ad populum
+"""Some students who do not take their studies seriously may be deemed as lazy, or it may be interpreted that they are bound to face failure in their future careers.""",false dilemma
+"Some students do not take their studies seriously, which begs the question, why is internet access so expensive?",fallacy of relevance
+"Lisa says that some students don't take their studies seriously, and that's entirely because she's making excuses for her own laziness.",ad hominem
+It's heart-wrenching to think about students who have vested so many years and so much time into their studies only to take it all for granted. Think about the waste of potential that is happening when students do not take their studies seriously.,appeal to emotion
+Teacher A: Some students do not take their studies seriously. Teacher B: So you're suggesting that none of our students care about their future?,fallacy of extension
+"Professor Wilson, who has been teaching for 30 years, says that some students do not take their studies seriously. Therefore, it must be true.",fallacy of credibility
+"No one can be sure that all students take their studies seriously, so there must be some who do not.",intentional fallacy
+"If some students do not take their studies seriously, failure is inevitable. Some students take their studies seriously, and those students are not destined to fail.",deductive fallacy
+"My pet cat doesn't like water. She is a member of the cat species. Therefore, all cats don't like water.",faulty generalization
+"Most cats don't like water, so water can be harmful to cats.",false causality
+Most cats are hydrophobic because most cats don't like water.,circular reasoning
+"Most people think that cats don't like water, therefore it must be true.",ad populum
+"""The majority of cats either detest water or lack the necessary skills to swim.""",false dilemma
+"Most cats don't like water, although it would be more relevant to look into the negative impact of industrial waste on marine life.",fallacy of relevance
+"John says most cats don't like water. But John dropped out of high school, so his claim is likely not true.",ad hominem
+"You’ve got to believe me when I say that most cats don't like water. Doesn't the image of a scared, wet kitten just break your heart?",appeal to emotion
+Person A: Most cats don't like water. Person B: So you're saying that all cats are afraid of any liquid?,fallacy of extension
+"Vets and cat specialists claim that most cats don't like water. As they are the experts, their claims should be believed.",fallacy of credibility
+"Since there is no evidence that cats like water, that would suggest that most cats don't like water.",intentional fallacy
+"If the animal is fond of water, it can't be a cat. This creature dislikes water. So, this must be a cat.",deductive fallacy
+"A portion of the inhabitants of this city have a fever. These inhabitants are a part of the population. Therefore, all of the population of this city have a fever.",faulty generalization
+"A portion of the inhabitants of this city have a fever, implying that the city environment is causing the fever.",false causality
+A portion of the inhabitants of this city have a fever because some citizens in this city have a fever.,circular reasoning
+"A large number of the city's inhabitants have a fever, thus it must mean there is an epidemic.",ad populum
+"""Either a segment of the city's population is suffering from a fever due to a lethal outbreak, or the healthcare structures of the city have collapsed.""",false dilemma
+"A portion of the inhabitants of this city have a fever, but have you considered the high unemployment rate?",fallacy of relevance
+"The health department, which has a high rate of corruption, claims that a portion of the city's population has a fever. They are simply not credible.",ad hominem
+"It is so difficult and heartbreaking to think about the children and elderly people in this city who are suffering from fever. Therefore, all must help them.",appeal to emotion
+"Person 1: A portion of the inhabitants of this city have a fever. Person 2: So what you're saying is, the entire city is sick and contagious?",fallacy of extension
+"A portion of the inhabitants of this city suffer from fever, and the doctor told me it was true, so it must be true.",fallacy of credibility
+"Since there is no way to prove that the entire city is healthy, there must be a portion of the inhabitants of this city have a fever.",intentional fallacy
+"If some of the residents of this city have a fever, then they must have been infected with COVID-19. A few people have been infected with COVID-19, so they must be showing symptoms of fever.",deductive fallacy
+"Sarah has two cats in her apartment. Sarah lives in an apartment building. Therefore, everyone in her apartment building has two cats.",faulty generalization
+"Sarah has two cats in her apartment and she has allergies. Thus, it's the cats causing her allergies.",false causality
+Sarah has two cats because there are two cats in her apartment.,circular reasoning
+"Many people believe that Sarah has two cats in her apartment, so it must be true.",ad populum
+"""Sarah must either be a crazy cat lady with two cats in her apartment, or she's surely suffering from extreme loneliness.""",false dilemma
+"Sarah has two cats in her apartment, but she should really be worried about the global population of endangered animals.",fallacy of relevance
+"Sarah is a cat hoarder, so we shouldn't believe her claim of having only two cats in her apartment.",ad hominem
+"Sarah's two cats must be suffering in her apartment. Think about how lonely and sad those poor animals must feel, cooped up all day without proper care.",appeal to emotion
+Speaker 1: Sarah has two cats in her apartment. Speaker 2: So you're saying she's hoarding animals like a crazy cat lady?,fallacy of extension
+"Sarah, a well-known animal lover, has two cats in her apartment. She said cats are not worth keeping. Therefore, owning cats must be a burden.",fallacy of credibility
+"Because no one has seen more than two cats in Sarah's apartment, it means she only has two cats.",intentional fallacy
+"If Sarah had an animal, it would be a cat or a dog. She has two cats in her apartment, so she doesn't have a dog.",deductive fallacy
+"Peter has been to China. Peter is a European. Therefore, all Europeans have been to China.",faulty generalization
+"Peter visited China last year and he learned Mandarin. Therefore, going to China made him learn Mandarin.",false causality
+Peter traveled to China because he took a trip to China,circular reasoning
+"Given that a large number of individuals believe Peter traveled to China the previous year, one could assume this is indeed a fact.",ad populum
+"""Either Peter, a travel enthusiast, visited China last year, or he went because he has relatives living there.""",false dilemma
+"Peter visited China last year, but does he have ever considered the impact of air travel on carbon emissions？",fallacy of relevance
+"Peter is claiming he visited China last year. But Peter is a notorious liar. Therefore, his claim is false.",ad hominem
+Peter was really moved by the plight of the homeless children when he visited China last year. Don't you feel awful about the way they're living? We should all do something about it.,appeal to emotion
+"Person A: Peter visited China last year. Person B: So you're saying Peter collaborated with communists? That's a dangerous allegation. Therefore, it's false that Peter visited China last year.",fallacy of extension
+"Peter, who visited China last year and has extensive travel experience, claims that it was the best country he's visited. Therefore, China is indeed the best country to visit.",fallacy of credibility
+"Since no one can prove that Peter didn't come to China last year, he must have.",intentional fallacy
+"Supposing Peter made a trip to China, then he has learned to speak Chinese. Peter can speak Chinese. Therefore, Peter must visit China last year.",deductive fallacy
+"Bob painted his house green. Bob is a homeowner. Therefore, all homeowners paint their houses green.",faulty generalization
+"Bob painted his house green and the grass grew extra fast that year. Surely, it's because Bob painted his house green.",false causality
+Bob's house is green because Bob painted his house green.,circular reasoning
+"Most think Bob colored his dwelling green, thus it is without doubt a fact.",ad populum
+"""Bob's green house was either painted that way due to his preference for the color, or he intended it as his personal message about ecological preservation.""",false dilemma
+"Bob painted his house green, though the importance lies in addressing the decline of green spaces in cities.",fallacy of relevance
+"Bob painted his house green? Well, we can't possibly take his taste seriously, he was always a terrible dresser. His opinion on colors must be flawed.",ad hominem
+"Isn't it wonderful that Bob has chosen green to repaint his house? It certainly makes it stand out in our neighborhood, evoking a feeling of freshness. He must have had a very good reason for choosing it.",appeal to emotion
+Alice: Bob painted his house green. Carol: So you're saying Bob's house is now like a massive jungle? That's ridiculous! ,fallacy of extension
+"Bob, a renowned architectural designer, painted his house green. Therefore, painting houses green must be the most aesthetically pleasing.",fallacy of credibility
+"You can't prove that Bob didn't paint his house some other color at first, so he must have painted it green.",intentional fallacy
+"If Bob uses environmentally unfriendly paint, his house will become green. Bob's house is indeed green. Consequently, Bob used environmentally unfriendly paint.",deductive fallacy
+"Mary studied French in high school. Mary is an American. Therefore, all Americans studied French in high school.",faulty generalization
+"Mary studied French in high school and now she has a job in France. Therefore, having studied French in high school got her the job in France.",false causality
+Mary is proficient in French because she studied French in high school. She studied French in high school because she is proficient in French.,circular reasoning
+"Many are aware that Mary studied French in high school, which certainly implies she should have become fluent in the language.",ad populum
+"""Either Mary was studying French in high school due to her dreams of residing in France, or she was in love with a French person.""",false dilemma
+"Mary studied French in high school, but we should really focus on the decline in public school funding.",fallacy of relevance
+"Mary claims she studied French in high school, but she is an infamous liar, so she must be lying about that too.",ad hominem
+Did you know that Mary studied French in high school? She would always talk about how beautiful Paris is and her dreams of living there. She wouldn’t have done that if she wasn't proficient in the language.,appeal to emotion
+"John: Mary studied French in high school. Susan: Oh, so you're saying Mary was in France studying all of her high school years? That's simply not true!",fallacy of extension
+"Mary, who studied French in high school, claims that the French language is the most romantic one. As she has studied it before, her opinion should be believed.",fallacy of credibility
+"Mary studied French in high school, so she must be fluent in French as nobody has proven otherwise.",intentional fallacy
+"If Mary took French classes in high school, then she must be fluent in French. Mary is fluent in French. Therefore, she took French in high school.",deductive fallacy
+"I watched the sunset from my balcony, and it was a beautiful sight. My balcony is in my city, therefore every sunset in my city is beautiful.",faulty generalization
+"I watched the sunset from my balcony. Therefore, my presence in the balcony caused the sunset.",false causality
+I saw the sun go down because I watched the sunset from my balcony.,circular reasoning
+"Many people agree that I watched the sunset from my balcony, therefore it must be true.",ad populum
+"""Either I am a loner who watched the sunset from my balcony, or I watched the sunset from my balcony because I'm steering clear of crowded spots.""",false dilemma
+"I watched the sunset from my balcony, yet people ignore the serious issues of light pollution in urban areas.",fallacy of relevance
+"John claims he watched the sunset from his balcony. John is gullible. Therefore, watching the sunset from his balcony is not true.",ad hominem
+"I can't possibly express how mesmerizing it was watching the sunset from my balcony. You really should start enjoying the sunset from my balcony too, it was so beautiful it almost moved me to tears.",appeal to emotion
+Sam: I watched the sunset from my balcony. Dane: So you're implying that standing on balconies gives you some magical power to command the sun?,fallacy of extension
+"I watched the sunset from my balcony. As an experienced traveller, you can always trust my taste for good views.",fallacy of credibility
+"I saw the sunset from my balcony, and since no one can prove otherwise. She accepted my statement",intentional fallacy
+"If I saw the sunset, then it must have been from the balcony. I was on the balcony, so I must have seen the sunset.",deductive fallacy
+"Michael had dinner at an Italian restaurant. Michael is a vegetarian. Therefore, all Italian restaurants offer vegetarian dishes.",faulty generalization
+Michael had dinner at an Italian restaurant last night and now he's feeling unwell. It must be the Italian food that caused his sickness.,false causality
+Michael dined at Gino's because that is his favorite Italian restaurant. Gino's is his favorite because that's where he dines.,circular reasoning
+"Many people think Michael had dinner at an Italian restaurant, thus it is true.",ad populum
+"""Either Michael dined at an Italian eatery due to his Italian heritage, or he did so because he has an affinity for Italian food.""",false dilemma
+"Michael had dinner at an Italian restaurant, yet we should be focusing on cutting down food waste rather than where one decides to eat.",fallacy of relevance
+"Michael claims he knows about authentic Italian cuisine because he had dinner at an Italian restaurant. But he's really just an ignorant glutton, so his opinion isn't valid.",ad hominem
+"Michael, you must remember the magical night when you had dinner at that quaint Italian restaurant. Every mouthful of the lasagna was like a loving hug from Nonna. How can you simply forget about such a wonderful experience?",appeal to emotion
+Person A: Michael had dinner at an Italian restaurant. Person B: So you're accusing Michael of having an unhealthy obsession with pizza and pasta?,fallacy of extension
+"Michael, an exceptional cook, had dinner at an Italian restaurant. He praised their lasagna, so it must be the best in town.",fallacy of credibility
+"Michael didn't provide any proof that he didn't have dinner at an Italian restaurant, so he must have had it there.",intentional fallacy
+"If Michael dined in Italy, he must have eaten Italian cuisine. Michael had his meal at an Italian eatery. Thus, Michael was located in Italy.",deductive fallacy
+"Jack lost his wallet at the concert. Jack is a concert-goer. Therefore, all concert-goers lose their wallets at concerts.",faulty generalization
+"Jack lost his wallet after attending the concert. Therefore, the concert was the cause of his lost wallet.",false causality
+Jack is careless because he lost his wallet at the concert. He lost his wallet because he is careless.,circular reasoning
+"Most people believe that Jack lost his wallet at the concert, therefore it is a fact that Jack lost his wallet at the concert.",ad populum
+"""Jack either misplaced his wallet due to his carelessness at the concert, or someone stole it from him.""",false dilemma
+"Jack lost his wallet at the concert, but what we need to think about is how many wallets are stolen worldwide every day.",fallacy of relevance
+"Jack can't possibly have a valid opinion on financial matters, he lost his wallet at a concert.",ad hominem
+"Jack had his wallet stolen at the concert, think about how desperate and helpless Jack is now, how can we not help him?",appeal to emotion
+"Thomas: Jack lost his wallet at the concert. Lydia: So you're saying Jack is a loser? Thomas, that's severe judgment right there!",fallacy of extension
+"Jack, who has a flawless memory and superior attention to detail, said he lost his wallet at the concert, so it must be true.",fallacy of credibility
+"No one has found Jack's wallet, so it must have been lost at the concert.",intentional fallacy
+"If jack went to the concert, then he would have lost his wallet. Jack did lose his wallet, therefore, he went to the concert.",deductive fallacy
+"Sam is a member of the board. Sam did not attend the meeting. Therefore, no members of the board attended the meeting.",faulty generalization
+"Sam did not attend the meeting and the meeting was boring. Clearly, Sam's absence made the meeting boring.",false causality
+Sam was absent because he did not attend the meeting.,circular reasoning
+"Many affirm that Sam did not attend the meeting, therefore we can conclude that indeed he didn't.",ad populum
+"""Sam didn't show up at the meeting. This suggests he either lacks interest in the meeting's subject, or perhaps he's been let go.""",false dilemma
+"Sam did not attend the meeting, but what is more important is the fact that he is a top performer in sales.",fallacy of relevance
+Sam doesn't attend meetings; he's been lazy and unreliable. Why should we consider his opinion on this topic?,ad hominem
+"Sam was absent from the meeting, which is very unfortunate. He lost his mother recently, and we should all be understanding and give him space to grieve.",appeal to emotion
+John: Sam did not attend the meeting. Mike: So you're saying Sam is completely irresponsible and doesn't care about our project?,fallacy of extension
+"Since Sam is the CEO of the company, his decision not to attend the meeting must have been the right one.",fallacy of credibility
+"Since nobody saw Sam attending the meeting, we can assume he didn't.",intentional fallacy
+"When Sam is present at the meeting, his performance sees improvement. However, Sam was absent from the meeting, which leads us to conclude that his performance did not see any advancement.",deductive fallacy
+"Nancy moved to a new city and she loves it. Thus, everyone who moves to a new city loves it.",faulty generalization
+"Ever since Nancy moved to a new city, she's been feeling happy. Surely, the move to the new city is the cause of her happiness.",false causality
+Nancy relocated to a new city because she moved to a new city.,circular reasoning
+"Many people suspect that Nancy moved to a new city, it must be right.",ad populum
+"""Nancy either relocated to a new city due to a career advancement, or she was fleeing from something in her history.""",false dilemma
+"Nancy moved to a new city, but it is more important to discuss the rising housing prices in urban areas.",fallacy of relevance
+"Nancy moved to a new city, so she obviously can't provide any valid opinion on what's best for our town. She's out of touch.",ad hominem
+"Nancy relocated to a new city, think of how terrified she must be, all alone in a strange, unfamiliar place. She must be needing our help and support right now.",appeal to emotion
+Tom: Nancy moved to a new city. Jerry: So Nancy is completely abandoning her hometown and friends? That doesn't sound like a person with any sense of belonging!,fallacy of extension
+"Nancy, the seasoned traveler, moved to a new city. As she's been everywhere, the city she chose should be the best place to live.",fallacy of credibility
+Nancy moved to a new city which means she wasn't successful in her old city.,intentional fallacy
+"Nancy will feel alone if she relocates to a new city. She did not relocate to a new city, therefore she must not be feeling alone.",deductive fallacy
+"Kevin, who is a teenager, enjoys playing chess. Therefore, all teenagers must enjoy playing chess.",faulty generalization
+"Whenever Kevin plays chess, he wins. Therefore, enjoying chess is the cause of Kevin's victories.",false causality
+Kevin enjoys playing chess because chess is a game Kevin enjoys.,circular reasoning
+"Most people embody the belief that Kevin enjoys playing chess, so it must be his favorite hobby.",ad populum
+"""Kevin must be a grandmaster at chess due to his enjoyment of the game, otherwise he surely lacks a social life beyond it.""",false dilemma
+"Kevin enjoys playing chess, however, more people are turning to videogames rather than traditional board games, so we should really be looking into that.",fallacy of relevance
+Kevin can't be serious about playing chess. Everyone knows he's a high school dropout.,ad hominem
+"If Kevin doesn't play chess today, he would feel so disappointed and gloomy. So let him play, it's his source of joy.",appeal to emotion
+A: Kevin enjoys playing chess. B: So are you saying that Kevin spends all his time indoors not getting any physical exercise?,fallacy of extension
+"Kevin, an international chess champion, enjoys playing chess, therefore it must be a mentally stimulating and rewarding game.",fallacy of credibility
+"No one can prove that Kevin doesn't like playing chess, so he enjoys it.",intentional fallacy
+"If Kevin is a mastermind, he takes pleasure in playing chess. Kevin takes pleasure in playing chess. Hence, Kevin is a mastermind.",deductive fallacy
+"Rachel is afraid of spiders. Rachel is a woman. Therefore, all women are afraid of spiders.",faulty generalization
+"Rachel saw a spider and now she is afraid. Therefore, the spider must have caused her fear.",false causality
+Rachel is afraid of spiders because spiders scare her.,circular reasoning
+"Since a lot of individuals presume that Rachel fears spiders, it obviously has to be a fact.",ad populum
+"""Rachel either fears spiders due to some horrifying past experience, or she possesses an irrational phobia.""",false dilemma
+"Rachel is afraid of spiders, but the more pressing concern here is how our education system fails to properly teach us about the role of spiders in the ecosystem.",fallacy of relevance
+"Rachel is afraid of spiders, so her opinion on environmental conservation is invalid.",ad hominem
+"Rachel must be afraid of spiders, she was shrieking just because a little spider was on the wall. It was so pitiful to watch.",appeal to emotion
+Person A: Rachel is afraid of spiders. Person B: So you're saying Rachel panics and faints every time she sees any kind of insect? That's an irrational fear.,fallacy of extension
+"Experts say spiders are scary, so spiders must be scary.",fallacy of credibility
+"Since nobody has proven that Rachel isn't scared of spiders, she must be afraid of them.",intentional fallacy
+"If Rachel had encountered a spider, she would undoubtedly have screamed. But Rachel didn't encounter a spider, so she doesn't scream.",deductive fallacy
+"I forgot my umbrella at the restaurant. Therefore, people always forget things at restaurants.",faulty generalization
+"I forgot my umbrella at the restaurant and it rained. Therefore, forgetting my umbrella caused it to rain.",false causality
+My umbrella is at the restaurant because I left it there. I left it there because I forgot my umbrella at the restaurant.,circular reasoning
+"Many people held the belief that I forgot my umbrella at the restaurant, therefore it must be true.",ad populum
+"""It's either that I left my umbrella at the restaurant inadvertently or I intentionally decided to lose it.""",false dilemma
+"I forgot my umbrella at the restaurant, but we should instead focus on the issue of deforestation and the increasing need for paper production.",fallacy of relevance
+"You're always so forgetful and disorganized, it's no wonder you left your umbrella at the restaurant. I can't trust anything you say.",ad hominem
+"My favorite umbrella, the one that gets me through every rainy day, is left behind at the restaurant. Won't you help me to go and recover it?",appeal to emotion
+"John: I forgot my umbrella at the restaurant. Steve: So what you're saying is, you cannot think when you are eating?",fallacy of extension
+I forgot my umbrella at the restaurant. The famous detective proposed my umbrella ended up in the lost & found. So my umbrella must be there.,fallacy of credibility
+"Since no one saw me leaving my umbrella at the restaurant, it must still be there.",intentional fallacy
+"I left my umbrella in the restaurant or it was stolen. There is evidence that my umbrella was stolen. Therefore, I did not leave my umbrella in the restaurant.",deductive fallacy
+"Lucy adopted a puppy. Lucy is one of my friends. Therefore, all of my friends have adopted puppies.",faulty generalization
+"Lucy adopted a puppy and then she started to smile more. Therefore, adopting a puppy caused Lucy to smile more.",false causality
+Lucy adopted a dog because she adopted a puppy.,circular reasoning
+"Numerous individuals are of the conviction that Lucy has adopted a puppy, so it certainly has to be the case.",ad populum
+"""Lucy adopted a puppy either because she couldn't stand the presence of cats, or she felt isolated.""",false dilemma
+"Lucy adopted a puppy, but the main concern nowadays should be the increasing number of homeless people.",fallacy of relevance
+Lucy can't take care of a puppy. Isn't she the one who dropped out of college for partying too much?,ad hominem
+"Surely, Lucy is a saint for adopting that poor, tiny puppy who was abandoned and left out on the streets to die.",appeal to emotion
+"Person A states, 'Lucy adopted a puppy.' Person B responds, 'So, Lucy is starting a dog farm? We cannot tolerate people promoting illegal activities like dog farming.' Therefore, Lucy adopting a puppy is considered wrong.",fallacy of extension
+"Lucy, a famous animal expert, adopted a puppy. She said dogs are not worth keeping. Therefore, owning dogs must be a burden.",fallacy of credibility
+"Lucy adopted a puppy, so she must be a caring and kind individual because no one has proven otherwise.",intentional fallacy
+"Should Lucy feel alone, she will surely adopt a puppy. It's evident Lucy has adopted a puppy. Therefore, it must be that Lucy is feeling lonely.",deductive fallacy
+"Ronald visited his grandparents. Ronald is a teenager. Therefore, all teenagers visit their grandparents.",faulty generalization
+"Ronald visited his grandparents and had a flu the next day. Hence, visiting his grandparents caused his flu.",false causality
+Ronald was at his grandparents' home because he visited his grandparents.,circular reasoning
+"Many people believe Ronald visited his grandparents. Therefore, Ronald visiting his grandparents is an undoubtable fact.",ad populum
+"""Either Ronald is quite the attentive grandson for visiting his grandparents, or he simply lacks any other worthwhile activities to invest his time in.""",false dilemma
+"Ronald visited his grandparents, which is why we should improve public transportation.",fallacy of relevance
+"Ronald visited his grandparents, but he's been divorced twice. Can we really trust his judgment or actions?",ad hominem
+Ronald is visiting his grandparents after they've spent weeks feeling alone and sad. It's crucial he does this - their happiness depends on it.,appeal to emotion
+"Person A: Ronald visited his grandparents. Person B: So Ronald travels around aimlessly, coming and going as he pleases, with no regard for his work responsibilities?",fallacy of extension
+"Noted historian, Ronald claimed that visiting grandparents has a significant positive effect on mental health. Therefore, his claim should be considered as fact.",fallacy of credibility
+"Since we can't prove that Ronald didn't visit his grandparents, it must be true that he did.",intentional fallacy
+"If Ronald goes on a holiday, he visits his grandparents. Ronald is not on a holiday. Therefore, Ronald has not visited his grandparents.",deductive fallacy
+"Anna is a productive employee. Anna took a nap in the afternoon. Therefore, all productive employees take an afternoon nap.",faulty generalization
+"Anna took a nap in the afternoon and now she's refreshed. Therefore, her freshness is only because she napped in the afternoon.",false causality
+Anna snoozed in the afternoon because Anna took a nap in the afternoon.,circular reasoning
+"Many people believe that Anna took a nap in the afternoon, therefore she must have slept in the afternoon.",ad populum
+"""Either Anna napped in the afternoon due to fatigue, or she simply succumbed to laziness.""",false dilemma
+"Anna took a nap in the afternoon, but instead, let's discuss how excessive screen time disrupts sleep schedules.",fallacy of relevance
+"Anna claims she finished the report on time, but we all know she took a nap in the afternoon. She's a slacker, so her claim must be false.",ad hominem
+"Anna took a nap in the afternoon to escape the pressing worries of her day, feeling an emotional heaviness that could only be alleviated by sleep.",appeal to emotion
+Person A: Anna took a nap in the afternoon. Person B: So what you're saying is that Anna's absolutely lazy and does nothing productive all day?,fallacy of extension
+"Anna, who is a sleep expert, took a nap in the afternoon. Therefore, napping in the afternoon must be beneficial.",fallacy of credibility
+"No one can be sure that Anna didn't sleep in the afternoon, so she must took a nap in the afternoon.",intentional fallacy
+"If Anna takes a nap, she cannot go for a run. Anna didn't take a nap. Therefore, Anna can go for a run.",deductive fallacy
+"Oliver ate pizza for dinner. Oliver is a student. Therefore, all students ate pizza for dinner.",faulty generalization
+"Oliver ate pizza for dinner and had a nightmare that night. So, definitely, pizza causes bad dreams.",false causality
+Oliver had dinner because he ate pizza. He ate pizza for dinner because he had dinner.,circular reasoning
+"Many individuals hold the conviction that Oliver ate pizza for dinner, which therefore must be the accurate account.",ad populum
+"""Either Oliver had pizza for dinner due to his overwhelming love for cheese, or he's disregarding his wellbeing.""",false dilemma
+"Oliver ate pizza for dinner, although people should really be thinking about the importance of a balanced diet.",fallacy of relevance
+"Oliver claims he ate pizza for dinner, but can we trust a man with such serious acne?",ad hominem
+"Oliver, of course you got ill, you ate pizza for dinner! It had loads of cheese; imagine all those poor cows suffering just so you could have your cheesy pizza.",appeal to emotion
+John: Oliver ate pizza for dinner. Mary: So you're saying Oliver is a glutton who eats unhealthy food all the time? Is that it?,fallacy of extension
+"Celebrity chef Oliver ate pizza for dinner. Since he's an expert in food, pizza must be the best option for dinner.",fallacy of credibility
+Oliver must have had pizza for dinner because no one saw him eat anything else.,intentional fallacy
+"Given that Oliver had pizza for dinner, he didn't need anything else. Oliver didn't eat the pizza. Therefore, Oliver needs something else for dinner.",deductive fallacy
+"David enjoys hiking in the mountains. David is my friend. Therefore, all my friends enjoy hiking in the mountains.",faulty generalization
+"Whenever David goes hiking in the mountains, it's a sunny day. Clearly, David's hiking trips cause sunny weather.",false causality
+David enjoys hiking because he likes to hike in the mountains.,circular reasoning
+"A lot of people believe that David enjoys hiking in the mountains, hence it is undeniably true.",ad populum
+"""David is either a naturalist who enjoys hiking in the mountains, or he is preparing for a marathon by hiking.""",false dilemma
+"David enjoys hiking in the mountains, however, the bigger issue we should be discussing is the increasing rate of deforestation.",fallacy of relevance
+"David is claiming he enjoys hiking in the mountains. But David was kicked out of college, so his claim is not true.",ad hominem
+"David, you absolutely adore the mountains. Think about the joy, the freedom, the fresh air... Hiking there must be the greatest feeling ever!",appeal to emotion
+"A: David enjoys hiking in the mountains. B: So, you're saying David is a complete nature freak who despises the city?",fallacy of extension
+"David, an experienced mountaineer, enjoys hiking in the mountains. Based on his preference, hiking must be the best outdoor activity.",fallacy of credibility
+"David must adore the heights because he enjoys hiking in the mountains, despite no clear evidence to support this.",intentional fallacy
+"If David likes the outdoors, then he enjoys hiking in the mountains. David enjoys hiking in the mountains. Therefore, David likes the outdoors.",deductive fallacy
+"Sharon is an accomplished pianist. Sharon is a resident of New York. Therefore, all the residents of New York are accomplished pianists.",faulty generalization
+"Sharon practices on a grand piano, and she is an accomplished pianist. Therefore, playing on a grand piano causes one to become an accomplished pianist.",false causality
+Sharon plays the piano well because she do well in playing the piano.,circular reasoning
+"Many people believe that Sharon is an accomplished pianist, hence it must be true that she is skilled.",ad populum
+"""Sharon is an accomplished pianist; this could only be due to her being a genius or perhaps because she has nothing else to devote her time to.""",false dilemma
+"Sharon is an accomplished pianist, but there are so many starving artists out there that can't afford a piano.",fallacy of relevance
+"Sharon claims she's an accomplished pianist. But she's also a heavy smoker. Therefore, her ability as a pianist can't be true.",ad hominem
+"Sharon must be an accomplished pianist because she has such long, graceful fingers. Just look at those hands!",appeal to emotion
+Person A: Sharon is an accomplished pianist. Person B: So you're telling me Sharon can play every single piece of music ever composed without a single mistake?,fallacy of extension
+"Sharon, an acclaimed pianist with years of experience, claims that practicing every day will increase your piano skills by 50%. She's an expert, therefore we should believe her.",fallacy of credibility
+"Sharon hasn't been proven to be unable to play piano, so she must be an accomplished pianist.",intentional fallacy
+"If Sharon is an accomplished pianist, then she is a musician. Sharon is a musician; therefore, she is an accomplished pianist.",deductive fallacy
+"Jenny is a college student and she has a collection of postcards. Therefore, all college students have a collection of postcards.",faulty generalization
+"Jenny always receives postcards and adds them to her collection. So, the postcards must be driving her to start a collection.",false causality
+Jenny is a collector because she has a collection of postcards. She has a collection of postcards because she is a collector.,circular reasoning
+"Many people know that Jenny has a collection of postcards. So, this suggests it's true.",ad populum
+"""Jenny either accumulates postcards as a result of some issue in her life, or she has visited all the locations represented on the postcards.""",false dilemma
+"Jenny may have a collection of postcards, but we need to address the rising costs of postage stamps.",fallacy of relevance
+Jenny can't possibly have any valuable insight on world travel. She just sits at home collecting postcards.,ad hominem
+"Jenny loves that collection of postcards, she’s been collecting them since she was little. Whoever questions the authenticity of Jenny’s postcard’s collection, it is like saying she’s been lying all these years.",appeal to emotion
+Friend 1: Jenny has a collection of postcards. Friend 2: So you're saying that Jenny spends all of her free time and money on collecting postcards to the point where it's an unhealthy obsession?,fallacy of extension
+"Jenny, who has travelled so many places, has a collection of postcards. We must believe she is knowledgeable about world geography.",fallacy of credibility
+"Jenny has a collection of postcards, nobody has shown me she doesn't, so I'm sure she does.",intentional fallacy
+"Traveling or shopping online are great ways to collect postcards. Jenny has a collection of postcards through her travels, so she won't be buying them online.",deductive fallacy
+"I left my keys in the car, and I am a human. Therefore, all humans leave their keys in the car.",faulty generalization
+I left my keys in the car and now they are lost. It must be because I left them in the car that they got lost.,false causality
+My keys are in the car because I left them there. I left them there because my keys are in the car.,circular reasoning
+"The consensus is that I left my keys in the car, hence it has to be accurate.",ad populum
+"""Either my keys are in the car and its theft is inevitable, or the car held no value to me whatsoever.""",false dilemma
+"I left my keys in the car, however it is worth considering the rising gas prices affecting us all.",fallacy of relevance
+"You left your keys in the car? You're so forgetful and clumsy, how can we trust anything you say?",ad hominem
+"I accidentally left my keys in the car. Imagine how scary it would be standing out here in the cold, unable to get home. We need to call someone.",appeal to emotion
+Person A: I left my keys in the car. Person B: So you're saying you intentionally want to get your vehicle stolen?,fallacy of extension
+"I left my keys in the car. Famous detective locksmiths say that it's a very common mistake, therefore it should not be a big deal.",fallacy of credibility
+"No one knows where my keys are, so I must have left them in the car.",intentional fallacy
+"If I left my keys in the car, then it's not possible for me to access my home. I'm not able to access my home. Hence, I must have left my keys in the car.",deductive fallacy
+"Tom is training for a marathon. Tom is a banker. Therefore, all bankers are training for a marathon.",faulty generalization
+"Tom is training for a marathon and he lost weight. Clearly, training for a marathon leads to weight loss.",false causality
+Tom is training for a marathon because Tom is training for a long-distance race.,circular reasoning
+"Most people think Tom is training for a marathon, which means he definitely does.",ad populum
+"""Tom is either training for a marathon due to his infatuation with running, or he is battling a weight issue.""",false dilemma
+"Tom is training for a marathon, but the prevalent issue of a sedentary lifestyle among teenagers warrants more attention.",fallacy of relevance
+"Tom is failing in his business. Therefore, his training for a marathon is destined to fail.",ad hominem
+"Tom is training for a marathon to inspire his father who is battling cancer. You must support him, imagine the strength it will give his dad, knowing his son is fighting along with him.",appeal to emotion
+Person A: Tom is training for a marathon. Person B: So you are saying Tom is abandoning his family and job to run all day?,fallacy of extension
+"Tom, who has been an athlete all his life, is training for a marathon. Therefore, his training routine must be effective.",fallacy of credibility
+"We haven't seen Tom not training, so he must be preparing for a marathon.",intentional fallacy
+"If Tom is engaged in marathon training, it follows that Tom must be athletic. However, Tom isn't in marathon training. It, thus, follows that Tom isn't athletic.",deductive fallacy
+"Chris didn't attend the party. Chris is one of my friends. Therefore, none of my friends attended the party.",faulty generalization
+"Chris didn't attend the party, and the party was a disaster. So, Chris not coming was the cause of the party being a disaster.",false causality
+Chris didn't attend the party because he was absent from the party.,circular reasoning
+"A lot of people believe that Chris didn't attend the party, therefore it must be true.",ad populum
+"""Either because he has a distaste for us, Chris didn't attend the party, or he is simply too introverted to socialize.""",false dilemma
+"Chris didn't attend the party, yet it's more important to discuss the rising prices of concert tickets.",fallacy of relevance
+Chris is always so antisocial and didn't even attend the party. Does anyone really believe he's a crowd-pleaser?,ad hominem
+"We all know high ranking people like Chris never have time to show up social parties, but just imagine the disappointment on the host’s face when he didn’t show up. He could’ve at least put in an appearance.",appeal to emotion
+"Person 1: Chris didn't attend the party. Person 2: So, you're implying that Chris despises social gatherings and being around people? Therefore, Chris must be a complete antisocial person.",fallacy of extension
+"I heard Chris didn't attend the party. He's the life of every party, so it must be not worth attending.",fallacy of credibility
+"There is no evidence that Chris did attend the party, hence he didn't.",intentional fallacy
+"Assuming that Chris didn't attend the party, it can be concluded that he was unwell. However, Chris attended the party. Therefore, he was not unwell.",deductive fallacy
+"Brenda practices the violin every day. Brenda is a student in my class. Therefore, all students in my class practice the violin every day.",faulty generalization
+"Brenda practices the violin every day and our next door’s dog howls sometimes. Therefore, the howling must be caused by Brenda’s violin practice.",false causality
+Brenda dedicates time to violin practice every day because Brenda practices the violin every day.,circular reasoning
+"Most people acknowledge that Brenda practices the violin every day, so she must be a professional violinist.",ad populum
+"""Brenda either practices the violin each day due to an upcoming concert, or she's inherently skilled with no requirement for practice.""",false dilemma
+"Brenda practices violin every day, that's the reason why she never eats spicy food.",fallacy of relevance
+Brenda can't possibly be a credible source on this subject because all she does is play the violin every day.,ad hominem
+"Brenda, think about how proud your parents will be of you when they see you practice the violin every day. Don't you want to give them that chance?",appeal to emotion
+"Bob: Brenda practices the violin every day. Alice: So you're saying Brenda does nothing but playing the violin all the time, neglecting all other aspects of life? Clearly, that's unhealthy.",fallacy of extension
+"Renowned musician Black claims that practicing the violin daily leads to perfect. Brenda practices the violin every day, so her violin performance must be perfect.",fallacy of credibility
+"No one has ever seen Brenda not practicing the violin, hence she must be practicing every day.",intentional fallacy
+"Brenda will become a virtuoso if she practices the violin daily. Since Brenda is a virtuoso, it implies she must practice the violin daily.",deductive fallacy
+"Linda had a pleasant drive through the countryside. Linda is a human. Therefore, all human beings enjoy scenic country drives.",faulty generalization
+"Linda saw many birds while taking a scenic drive through the countryside. Therefore, the countryside must be causing the bird migration.",false causality
+Linda took a scenic drive through the countryside because Linda went for a picturesque drive in the countryside.,circular reasoning
+"Most people believe Linda took a scenic drive through the countryside, which means she definitely did.",ad populum
+"""Linda either embarked on a scenic drive through the countryside for a friendly visit, or she was fleeing legal prosecution.""",false dilemma
+"Linda took a scenic drive through the countryside, but we should instead consider the detrimental effects of gas consumption on our environment.",fallacy of relevance
+"Linda claims to have taken a scenic drive through the countryside. But, everyone knows Linda is uneducated, therefore, her claims are unquestionably false.",ad hominem
+"Linda, you were so distraught last time you didn't take that scenic drive through the countryside. You'll regret it forever if you don’t take this opportunity.",appeal to emotion
+"John: Linda took a scenic drive through the countryside. Alice: So you mean she wasted fuel and contributed to pollution just to entertain herself. Not very environmentally conscious of her, is it?",fallacy of extension
+"Linda, an experienced travel blogger, took a scenic drive through the countryside. Therefore, it must be a route worth taking.",fallacy of credibility
+"Linda didn't inform anyone of seeing bad views, therefore she took a scenic drive through the countryside.",intentional fallacy
+"If Linda Linda took a scenic drive through the countryside, she would have encountered a deer. Linda did not drive to the countryside. Therefore, she would not have seen the deer.",deductive fallacy
+"Jennifer bakes cakes for a living. Jennifer is a resident of our town. Therefore, all residents of our town bake cakes for a living.",faulty generalization
+"Jennifer bakes cakes for a living and her cakes are recognized to be the best. Therefore, baking for a living her causes the cakes to be the best.",false causality
+"Jennifer bakes cakes for a living, so she makes her living by baking cakes",circular reasoning
+"Many people observe Jennifer baking cakes for a living, therefore, she definitely is the best baker.",ad populum
+"""Jennifer either bakes cakes for a living out of her passion for baking, or she does it because she doesn't possess other skills.""",false dilemma
+"Jennifer bakes cakes for a living, yet the real point of concern here should be the alarming rate of people with diabetes.",fallacy of relevance
+"Jennifer's opinion on climate change is worthless. She bakes cakes for a living, what could she possibly know about such a complex scientific issue?",ad hominem
+Jennifer bakes cakes for orphaned children. How can anyone not support someone who puts so much love into her work for the less fortunate?,appeal to emotion
+"Person A: Jennifer bakes cakes for a living. Person B: So you're implying that all Jennifer does is making sugar-bombs that contribute to obesity issues?  Therefore, Jennifer baking cakes for a living is deemed false.",fallacy of extension
+"Jennifer bakes cakes for a living, she has great experience in baking, therefore her cakes must be delicious.",fallacy of credibility
+"No one knows what Jennifer's occupation is, so she must bake cakes for a living.",intentional fallacy
+"Should Jennifer be baking cakes, she would be a baker. Jennifer is not baking cakes. Thus, Jennifer is not a baker.",deductive fallacy
+"Roger is an excellent chess player. Roger is a member of the local chess club. Therefore, all members of the local chess club are excellent players.",faulty generalization
+"Roger has become an excellent chess player and his math scores have improved. Therefore, becoming an excellent chess player has made him better at math.",false causality
+Roger is an excellent chess player because he plays chess excellently.,circular reasoning
+"Many individuals hold the belief that Roger is an excellent chess player. Hence, he must be the excellent chess player.",ad populum
+"""Either Roger's exceptional chess skills are a result of his innate ability, or he has attained them through dishonest tactics.""",false dilemma
+"Although Roger is an excellent chess player, but have you considered that his English pronunciation is terrible.",fallacy of relevance
+"Roger can't be an excellent chess player, he is a known liar.",ad hominem
+Roger cried so much when he won his first chess tournament. Can't you see how passionate he is about it? This proves he's an excellent chess player.,appeal to emotion
+Anne: Roger is an excellent chess player. Bob: So you're saying Roger should be awarded as Grand Master now? That is absurd.,fallacy of extension
+"Roger, an excellent chess player, also practices painting in his free time. Therefore, his paintings must be just as excellent.",fallacy of credibility
+Roger is an excellent chess player because I've never seen him lose a game.,intentional fallacy
+"If Roger is a grandmaster, then he is an excellent chess player. Roger is an excellent chess player. Therefore, Roger is a grandmaster.",deductive fallacy
+"Rebecca is a nurse. Since Rebecca doesn't like spicy food, hence, all nurses don't like spicy food.",faulty generalization
+"Rebecca doesn't like spicy food and she is unhealthy. Therefore, not eating spicy food is the reason for her unhealth.",false causality
+Rebecca doesn't like spicy food because she dislikes spicy food.,circular reasoning
+"Most people believe that Rebecca doesn't like spicy food, therefore it must be true.",ad populum
+"""Rebecca either refrains from spicy food due to discomfort it causes her, or she lacks well-developed taste buds.""",false dilemma
+"Rebecca doesn't like spicy food, but the concern should be more on the increase in heart diseases due to unhealthy food habits.",fallacy of relevance
+"Rebecca can’t be a food critic, she doesn’t even like spicy food!",ad hominem
+Rebecca can't eat spicy food - just thinking about the tears of pain she would shed as the heat burns her mouth should convince you to never serve her something spicy.,appeal to emotion
+Joseph: Rebecca doesn't like spicy food. Maria: So you're saying that Rebecca hates all flavorful foods?,fallacy of extension
+"Rebecca, a renowned food critic, does not like spicy food. Hence, spicy food is not good.",fallacy of credibility
+"Since Rebecca hasn't been seen eating spicy food, it is assumed that she doesn't like it.",intentional fallacy
+"If the food is spicy, Rebecca won't like it. Rebecca doesn't like that food and it must be spicy.",deductive fallacy
+"Ted went to bed early. Ted is a student. Therefore, all students go to bed early.",faulty generalization
+"Ted went to bed early, then he woke up feeling refreshed the next day. Therefore, going to bed early is the obvious reason for his rejuvenated state.",false causality
+Ted went to bed early because he slept early.,circular reasoning
+"It is widely believed that Ted went to bed early, and therefore, it must be true.",ad populum
+"""Either Ted hit the sack early due to extreme fatigue, or he is suffering from a sickness.""",false dilemma
+"Ted went to bed early, but the real issue here isn't his sleep schedule, it's our failing education system.",fallacy of relevance
+Ted claims he's a hard worker but he goes to bed early. Can we really trust a lazy person's work ethic?,ad hominem
+"Ted went to bed early last night, but just imagine how exhausted he must be, working hard day after day without any breaks.",appeal to emotion
+"Ted's friend: Ted went to bed early. Gossiper: So you're saying that Ted is a lazy guy who does nothing but sleep all the time? Therefore, Ted is lazy.",fallacy of extension
+"Ted, an expert in sleep science, went to bed early. Therefore, we should believe that going to bed early is good for us.",fallacy of credibility
+"There is no evidence that Ted stayed up late, so he must have gone to bed early.",intentional fallacy
+"Assuming that Ted is in bed early implies that he is exhausted. Ted is indeed exhausted. Hence, Ted must have gone to bed early.",deductive fallacy
+"Martin has a membership at a local gym. Martin lives in my apartment complex. Therefore, all people in my apartment complex have a gym membership.",faulty generalization
+"Martin has a membership at a local gym. Therefore, this must be the reason why he is physically fit.",false causality
+Martin has a membership at a local gym because he is a member of the gym.,circular reasoning
+"Many people believe Martin has a membership at a local gym, which means he definitely does.",ad populum
+"""Martin either secured a membership at a local gym due to his obsession with fitness, or he's riddled with insecurities about his body shape.""",false dilemma
+"Martin has a membership at a local gym, but considering how much time he spends on video games instead makes you wonder if these gym memberships are worth it.",fallacy of relevance
+"Martin says he has a gym membership, but Martin still can't hold a job, so his claim can't be true.",ad hominem
+"Martin, you must continue your gym membership. You won't want to look back and regret your shape and health when you are older, would you?",appeal to emotion
+Person1: Martin has a membership at a local gym. Person2: You mean Martin spends all his time lifting weights and staring at himself in the mirror? It's impossible!,fallacy of extension
+"Martin has a membership at a local gym. Because he is fit and practices regularly, he must be an expert in fitness, and so his decision to join that particular gym should be trusted.",fallacy of credibility
+"Since no one can prove Martin isn't going to the gym, it's clear he has a membership at a local gym.",intentional fallacy
+"If Martin has a membership at a local gym, then he works out. Martin works out, so he has a gym membership.",deductive fallacy
+"I didn't feel well yesterday after I ate sushi. As a result, everyone who eats sushi feels sick.",faulty generalization
+"I didn't feel well yesterday after eating sushi. Thus, the sushi must have made me sick!",false causality
+I felt unwell because I didn't feel well yesterday.,circular reasoning
+"Many people acknowledge that I wasn't feeling well yesterday, therefore it must be true that I was indeed sick.",ad populum
+"""Either my feeling unwell yesterday stems from a serious disease, or I was subjected to ingestion of a toxic substance.""",false dilemma
+"I didn't feel well yesterday, but the real issue is the lack of adequate health care in our country.",fallacy of relevance
+"You didn't feel well yesterday? Well, you're always complaining about something, so how can we trust your judgment about your health?",ad hominem
+"You know, I felt horrible yesterday. I was so weak, I could barely rise from bed. You wouldn't make your dear friend handle all the workload on their own, would you?",appeal to emotion
+John: I didn't feel well yesterday. Sarah: So you're saying you were virtually on the brink of death?,fallacy of extension
+"I didn't feel well yesterday. My doctor, a seasoned professional, believes I just needed rest. Therefore, I must have just needed rest.",fallacy of credibility
+The only reason I didn't feel well yesterday is because nobody can prove that I was fine.,intentional fallacy
+"If I feel well, I go to work. I didn't feel well yesterday. Therefore, I didn't go to work yesterday.",deductive fallacy
+"Cynthia made a beautiful painting. Cynthia is a member of my art class. Therefore, all members of my art class make beautiful paintings.",faulty generalization
+"Cynthia made a beautiful painting and then her friends start praising her creativity. As a result, this painting makes Cynthia more creative.",false causality
+Cynthia made a beautiful painting because the beautiful painting is made by Cynthia.,circular reasoning
+"People widely agree that Cynthia made a beautiful painting. Therefore, her painting must be a masterpiece.",ad populum
+"""Cynthia crafted this exquisite artwork either due to her professional artistry skills, or she was aided by mystical entities.""",false dilemma
+"Cynthia made a beautiful painting, but we should be first discussing the fact that art education in public schools is underfunded.",fallacy of relevance
+"Cynthia can't have made a beautiful painting, she is blind in one eye.",ad hominem
+"Cynthia put her heart and soul into that painting, how could you not find it beautiful? She cried over it for countless nights, you know.",appeal to emotion
+"Paul: Cynthia made a beautiful painting. Kate: So, you're implying that Cynthia has become a professional artist who can create masterpieces? Paul, nothing short of a Van Gogh or Picasso would be a masterpiece!",fallacy of extension
+"Cynthia, an esteemed artist, made a beautiful painting. Therefore, we should appreciate it due to her authority in art.",fallacy of credibility
+Cynthia's painting must be beautiful because no one has seen it and proven it is not beautiful.,intentional fallacy
+"If Cynthia attends art school, she makes beautiful paintings. Cynthia made a beautiful painting. Therefore, Cynthia attends art school.",deductive fallacy
+"Patricia doesn't want to travel abroad. Patricia is a millennial. Therefore, all millennials don't want to travel abroad.",faulty generalization
+"Patricia fell ill last time after she traveled abroad. Patricia doesn't want to travel abroad now, therefore her past experience of falling ill caused her to not want to travel.",false causality
+Patricia avoids travel abroad because she dislikes travelling. Her dislike for travelling is based on her avoidance of travelling abroad.,circular reasoning
+"A lot of people think that Patricia doesn't want to travel abroad. Therefore, she must be scared of traveling.",ad populum
+"""Patricia's refusal to travel abroad either stems from her fear of flying or her disdain for foreign cultures.""",false dilemma
+"Patricia doesn't want to travel abroad, however it's more important to discuss our country's deteriorating infrastructure.",fallacy of relevance
+"Patricia is claiming she doesn't want to travel abroad. But we all know Patricia is an obstinate introvert. Therefore, her claim is not true.",ad hominem
+"Patricia, you should travel abroad. Think about all the wonderful experiences you'll be missing out on - the new foods, the new cultures, the new friendships. You would be crazy not to.",appeal to emotion
+"Person A: Patricia doesn't want to travel abroad. Person B: So, Patricia is saying she's against experiencing different cultures?",fallacy of extension
+"Patricia, a world-renowned travel blogger, doesn't want to travel abroad. Therefore, it's probably not a good idea for anyone to do so.",fallacy of credibility
+"There is no solid evidence showing that Patricia wants to travel abroad, thus, she doesn't want to.",intentional fallacy
+"If Patricia wants to travel abroad, it means she is rich. However, Patricia does not want to travel abroad. Therefore, Patricia is not rich.",deductive fallacy
+"Howard is afraid of flying. Howard is a teacher, therefore, all teachers are afraid of flying.",faulty generalization
+"Howard is afraid of flying and then he decided to pursue marine research. Thus, his career choice led to his fear of flying.",false causality
+Howard is afraid of flying because he has a fear of flying.,circular reasoning
+"Most people believe that Howard is afraid of flying, so it must be true.",ad populum
+"""Howard is afraid of flying either because of a disturbing aviation experience, or due to an illogical dread of heights.""",false dilemma
+"Howard is afraid of flying, yet we aren't focusing on the real issue here which is global warming and its impact on flight patterns.",fallacy of relevance
+"Howard claims to be a pilot, but he is afraid of flying. This must mean he's not actually a pilot.",ad hominem
+"Poor Howard is completely terrified of flying. Can you imagine him sweating, clutching the armrests with white knuckles? Surely you don't expect him to board that plane.",appeal to emotion
+"Dave: Howard is afraid of flying. Emily: So, you're saying Howard wants to live in the dark ages and travel everywhere by horse?",fallacy of extension
+"Howard, who has traveled extensively for his international business career, is afraid of flying. Because of his vast experience, we should all be afraid of flying.",fallacy of credibility
+"Howard hasn't demonstrated he isn't afraid of flying; so, he must be afraid of it.",intentional fallacy
+"If Howard has a fear of heights, then he surely fears flying. However, Howard doesn't fear heights. Hence, Howard doesn't fear flying.",deductive fallacy
+"I spent the day at the beach and got sunburnt. Beaches are a type of outdoor locations. Therefore, all outdoor locations cause sunburn.",faulty generalization
+I spent the day at the beach and got a sunburn. The beach must be the sole cause of my sunburn.,false causality
+I spent my day at the seaside because I I spent the day at the beach.,circular reasoning
+"So it must be true that I spent the day at the beach, as it is widely believed by many people.",ad populum
+"""Since I spent the day at the beach today, that means it's impossible for me to spend time anywhere else because it's either at the beach or at home.""",false dilemma
+"I spent the day at the beach, which just demonstrates the importance of addressing the high levels of unemployment.",fallacy of relevance
+This person spent the day at the beach and claims to be a responsible student. Can we really trust a beach bum's word?,ad hominem
+"I spent the day at the beach, and the sadness was overwhelming. You could feel the despair almost palatable in the air after hearing about the recent oil spills. Surely, this must be a sign that we should act against irresponsible corporations.",appeal to emotion
+"Person A: I spent the day at the beach. Person B: So you're saying you have time to spend all day doing nothing, lazing around on the beach?",fallacy of extension
+"Oceanographers claim that a day at the beach is good for health, so we should believe that a day at the beach is indeed good for health.",fallacy of credibility
+"Since no one can prove I wasn't at the beach today, I must have spent the day there.",intentional fallacy
+"If I lay on the beach all day, I inevitably get sunburned. I did get sunburned, so I spent the day at the beach.",deductive fallacy
+"I read a funny joke in 'Comedy Times'. 'Comedy Times' is a book. Therefore, all books contain funny jokes.",faulty generalization
+I read a funny joke and then I was in a good mood all day. So my good mood caused me to read a joke.,false causality
+I read a funny joke because the funny joke was read by me.,circular reasoning
+"A lot of people think the joke I read was funny, therefore it must be the funniest joke.",ad populum
+"""I either find myself hilarious due to reading a funny joke, or my sense of amusement is quite simple.""",false dilemma
+"I read a funny joke, but isn't it more important to think about freedom of speech in comedy?",fallacy of relevance
+How can you even consider the joke I read funny? I was found guilty of tax evasion last year.,ad hominem
+"You must trust this joke, even though it's hearsay. Can't you feel how happy it makes you? Therefore, it must be as funny as it sounds.",appeal to emotion
+John: I read a funny joke. Jane: So you're saying that all time should be spent reading jokes and laughing instead of doing something productive? So that's how you would waste your time?,fallacy of extension
+"World renowned comedian Kevin Hart once said that the joke I read was the funniest. Therefore, it must be funny.",fallacy of credibility
+I read a joke but no one can prove it is funny. So the joke is not funny.,intentional fallacy
+"If a joke is posted on social media, then it is funny. I read a funny joke. Therefore, the joke was posted on social media.",deductive fallacy
+"Allison is knitting a sweater. Allison is a teenager. Therefore, all teenagers knit sweaters.",faulty generalization
+"Allison is knitting a sweater and it's currently winter. Undoubtedly, her knitting caused the cold weather.",false causality
+Allison is knitting a sweater because she is a great knitter. She is a great knitter because she is knitting a sweater.,circular reasoning
+"Most people observed Allison knitting a sweater. Therefore, Allison is good at knitting.",ad populum
+"""Allison is knitting a sweater either due to her inability to purchase one, or she is simply burdened with an excess of leisure time.""",false dilemma
+"Allison is knitting a sweater, but the real issue here is the harmful impact of fast fashion on the environment.",fallacy of relevance
+Allison is knitting a sweater but can she truly knit well when she failed her home economics class?,ad hominem
+"Allison has been pouring her heart and soul into the sweater she is knitting. You should really appreciate it, even if knitting is not necessarily the most efficient way to produce a sweater.",appeal to emotion
+"Person A: Allison is knitting a sweater. Person B: So, you are saying Allison plans to quit her job and become a full time knitwear designer?",fallacy of extension
+"Famous knitter, Allison claims that knitting a sweater is the best activity. Therefore, we should all start knitting sweaters.",fallacy of credibility
+Alison is knitting a sweater because no one can prove she isn't.,intentional fallacy
+"Allison is a creative person if she is knitting a sweater. Indeed, Allison has creativity. Thus, Allison is in the process of knitting a sweater.",deductive fallacy
+"Priscilla is participating in a charity run. Priscilla is a university student. Therefore, all university students are participating in charity runs.",faulty generalization
+"Priscilla participated in a charity run and the next day it rained. Hence, Priscilla's participation caused it to rain.",false causality
+Priscilla participates in the charity run because she is a participant in the charity run.,circular reasoning
+"Priscilla's participation in the charity run has been agreed by many, therefore it definitely has to be accurate.",ad populum
+"""Priscilla is participating in a charity run either due to her inherent generosity, or simply as a means to gain publicity.""",false dilemma
+"Priscilla is participating in a charity run, yet the problem of obesity in our country is more important to discuss.",fallacy of relevance
+"Priscilla can't be participating in a charity run, she used to be a shoplifter.",ad hominem
+You have to support Priscilla. Remember how she wept when she talked about her sister’s illness? Participating in this charity run isn't just an event for her; it’s a vital cause that can provide her sister the proper health treatment.,appeal to emotion
+John: Priscilla is participating in a charity run. Mary: So you're suggesting that Priscilla is trying to gain popularity by showing off to be charitable? That's just superficial!,fallacy of extension
+"Priscilla, a well-known fitness guru, is participating in a charity run. Hence, it is a worthy event to participate.",fallacy of credibility
+"Nobody can prove Priscilla isn't participating in the charity run, so she must be.",intentional fallacy
+"If Priscilla is an athlete, then she participates in runs. Priscilla is participating in a charity run. Therefore, Priscilla is an athlete.",deductive fallacy
+"The Greens have been to France twice. The Greens are my neighbors. Therefore, all my neighbors have been to France twice.",faulty generalization
+"The Greens traveled to France last few times, and each time they arrived, the weather improved. Clearly, The Greens' visits are causing the sunny weather in France.",false causality
+The fact that the Greens have visited France twice is because they have been to France twice.,circular reasoning
+"Most people report that the Greens have been to France twice, so therefore, it must be true.",ad populum
+"""The Greens have either been to France twice in homage to their love for French culture, or because they have family residing there.""",false dilemma
+"The Greens have been to France twice, however, it's more crucial to discuss the issues of climate change that France is facing.",fallacy of relevance
+"The Greens have been to France twice, but they're not well-educated, so their travel experiences aren't credible.",ad hominem
+"The Greens family had two wonderful vacations in France. If you don't agree with them, that's disrespectful and callous to their wonderful memories, how can you be so callous?",appeal to emotion
+"Person A: The Greens have been to France twice. Person B: So you're suggesting the Greens are spending all their time vacationing, ignoring everyday commitments?",fallacy of extension
+The Greens have been to France twice. They are well-traveled so their recommendation on the country's best tourist spots should be believed.,fallacy of credibility
+"No one can prove that the Greens haven't visited France more than twice, hence they have only been there twice.",intentional fallacy
+"If the Greens have been to France, then they love European culture. The Greens have not been to France. Therefore, they do not love European culture.",deductive fallacy
+"Students are listening to classical music. Students are part of the young generation. Therefore, all young people listen to classical music.",faulty generalization
+"Students are performing better in their studies after listening to classical music. Hence, classical music must be improving their academic performance.",false causality
+Students are music savvy because they are listening to classical music. They listen to classical music because they are music savvy.,circular reasoning
+"A lot of students are listening to classical music, therefore classical music must be the best music genre.",ad populum
+"""Students are either listening to classical music as a reflection of their superior intellect, or they are feigning their enjoyment to project a more refined image.""",false dilemma
+"Students are listening to classical music, yet we should really be discussing if listening to hip-hop music develops creativity.",fallacy of relevance
+"Students are listening to classical music? Well, they're just a bunch of nerds with no social life, so their taste in music doesn't really matter.",ad hominem
+Students are listening to classical music. Only a hard-hearted person would argue against the profound power of classical music in molding young minds.,appeal to emotion
+Parent 1: Students are listening to classical music. Parent 2: So you're telling me our children are getting schooled on ancient tones and rhythms instead of studying? So the students must never listen to music.,fallacy of extension
+"Musicologists claim that listening to classical music improves students' learning, so we should believe this opinion.",fallacy of credibility
+"Since no one knows what the students are doing, they must be listening to classical music.",intentional fallacy
+"If students study, then they listen to classical music. The students are not studying. Therefore, they are not listening to classical music.",deductive fallacy
+"X is talking about Y. X is a part of our group chat. Therefore, everyone in our group chat is talking about Y.",faulty generalization
+"Every time X talks about Y, Y gets upset. Therefore, talking about Y must be the cause of Y's sadness.",false causality
+X is discussing Y because X is involved in a conversation about Y.,circular reasoning
+"Most people say that X is talking about Y, hence it must be true that X is indeed discussing Y.",ad populum
+"""X is either spreading rumors about Y or X has some lingering tensions with Y.""",false dilemma
+"X is talking about Y, but the real concern should be the decline in local business.",fallacy of relevance
+"X can't possibly know anything about Y, have you seen their grades? They barely passed high school!",ad hominem
+"If you let X continue to talk about Y, it will cause a lot of problems. Don't you feel anxious and scared about the potential damage it can cause?",appeal to emotion
+Person A: X is talking about Y. Person B: So you mean X is gossiping about Y all the time? And that's a bad thing?,fallacy of extension
+"Professor X, an intellectual authority in his field, is talking about Y. Given his position, Y must be important.",fallacy of credibility
+X is talking about Y because no one knows what X is talking about.,intentional fallacy
+"If X is talking about Y, X finds Y likeable. But X is not talking about Y, so X dislikes Y.",deductive fallacy
+"X is so happy to see Y. X is a human being. Therefore, all human beings are happy to see Y.",faulty generalization
+X saw Y and then he became incredibly happy. We can clearly see that Y is the sole reason for X's happiness.,false causality
+X is so happy to see Y because X is so glad to see Y.,circular reasoning
+"It's widely believed that X is so happy to see Y, hence it must be undeniably factual.",ad populum
+"""X is either so happy to see Y due to their romantic feelings, or X is merely putting on a facade.""",false dilemma
+"X is so happy to see Y, yet we should really think about how often people get depressed due to loneliness.",fallacy of relevance
+X is just happy to see Y because X is a hopeless romantic who falls in love too easily. Their opinion is biased and should not be taken seriously.,ad hominem
+"X is over the moon whenever he sees Y. Imagine the heartbreak, the soul-crushing disappointment, if Y were to disappear.",appeal to emotion
+"X says: I am so happy to see Y. Z replies: So, you're saying that Y is the only person who can make you happy, huh?",fallacy of extension
+"The beloved and respected X is so happy to see Y, so we should all be happy to see Y too.",fallacy of credibility
+X must be happy to see Y because no one saw X being unhappy around Y.,intentional fallacy
+"Should X receive a positive exam result, X's happiness upon seeing Y is inevitable. X exhibits joy upon Y's presence. Hence, it's a certainty that X did well on the exam.",deductive fallacy
+"X accepted Y's suggestion. X is a member of our organization. Therefore, our organization always accepts Y's suggestions.",faulty generalization
+"X accepted Y's suggestion and afterward X's project was a great success. Therefore, it was Y's advice that led to the success of X's project.",false causality
+X accepted Y's suggestion because Y gave a suggestion that X accepted.,circular reasoning
+"Many people believe that X accepted Y's suggestion. Therefore, Y's suggestion must have been the best option.",ad populum
+"""X either embraced Y's proposal due to Y being the supervisor, or X lacks the competence to form his own choices.""",false dilemma
+"X accepted Y's suggestion, but let's not forget that Y also failed the last project.",fallacy of relevance
+"X is an inexperienced newbie, therefore we shouldn't trust his decision to accept Y's suggestion.",ad hominem
+"X accepted Y's suggestion because Y cried when X initially declined. To avoid causing more distress, X begrudgingly accepted.",appeal to emotion
+Person A: X accepted Y's suggestion. Person B: So X just blindly follows whatever Y says?,fallacy of extension
+"Forbes 500 listed billionaire X accepted Y's suggestion, therefore Y's advise must be beneficial.",fallacy of credibility
+"X accepted Y's suggestion, therefore Y must have had a great level of influence over X.",intentional fallacy
+"If X dislikes a suggestion, then X will not accept it. X liked the suggestion. Therefore, X accepted it.",deductive fallacy
+"X remains silent all the time. X is a member of the school debate team. Therefore, all members of the school debate team remain silent all the time.",faulty generalization
+"X remains silent all the time. Therefore, X's silence is causing tension in the room.",false causality
+X is quiet because he remains silent all the time.,circular reasoning
+"A lot of people have noticed that X is always silent, so it must be the truth that he is an introvert.",ad populum
+"""X is always silent, indicating that he either prefers minimal verbal communication or lacks interest in socializing.""",false dilemma
+"X remains silent all the time, however instead of his silence, the real issue we should be discussing is the rising levels of noise pollution.",fallacy of relevance
+"X can't possibly have a valid opinion on this matter. They're always silent, so they probably don't even understand what we're discussing.",ad hominem
+"X must always be silent because he isn't smart enough to answer when spoken to. Look at the poor thing, always quiet and withdrawn, surely this is a sign of lack of wit.",appeal to emotion
+"Angel: X remains silent all the time.  Devil: So you're saying X is incapable of expressing any emotions or thoughts, like a statue in the park?  That's too far-fetched.",fallacy of extension
+"X, the deep thinker, remains silent all the time since he always concentrates. Therefore, his actions are purposeful and meaningful.",fallacy of credibility
+X remains silent all the time because no one ever proved he could talk.,intentional fallacy
+"Since X is silent, he has nothing to contribute; X has indeed nothing to contribute, and therefore X remains silent all the time.",deductive fallacy
+"X missed the train. X is a human. Therefore, all humans miss trains.",faulty generalization
+"X missed the train and he was late. Surely, his late must be the reason why he miseed the train.",false causality
+X failed to catch the train because X missed the train.,circular reasoning
+"Many people think X missed the train, thus it is a fact that he did.",ad populum
+"""Either the train was missed by X due to his tardiness, or he simply has no regard for timeliness.""",false dilemma
+"X missed the train, but we should be looking into the impact of public transportation on the environment.",fallacy of relevance
+"X missed the train. But frankly, X is an idiot. So, it's no surprise that he missed the train.",ad hominem
+"X's heart was filled with tears as he watched the train move; he had a great dream, a dream that filled his sleepless nights and restless days. Oh, I can't believe he missed the train!",appeal to emotion
+"A: X missed the train. B: So, you're insinuating that X is incapable of being punctual?",fallacy of extension
+He knows everything and he said X missed the train. So we should believe this.,fallacy of credibility
+X missed the train because no one saw him catch it.,intentional fallacy
+"If X woke up late, then X missed the train. X missed the train. Therefore, X woke up late.",deductive fallacy
+"X prepares for Y's reception. X is one of my colleagues. Therefore, all my colleagues are preparing for Y's reception.",faulty generalization
+"Whenever X prepares for Y's reception, it goes smoothly. So, X’s preparation is the only reason for the successful reception.",false causality
+X prepares for Y's reception because Y needs a reception. Y needs a reception because X prepares for it.,circular reasoning
+"Many people think X is preparing for Y's reception. Therefore, X must be doing so.",ad populum
+"""Either X is getting ready for Y's reception out of intrigue, or with an intent to make her feel awkward.""",false dilemma
+"X prepares for Y's reception, yet a more pressing issue is the unfair distribution of food worldwide.",fallacy of relevance
+"X can't prepare for Y's reception correctly, everyone knows he's a slob.",ad hominem
+X must prepare for Y's reception. Can you imagine how heartbroken Y would be if everything was not organized perfectly after Y travelled all this way?,appeal to emotion
+"Person A: X prepares for Y's reception. Person B: So you're saying X is throwing an over-the-top, extravagant party for Y? X's preparation for Y's reception is a wrong move!",fallacy of extension
+"X, a renowned event planner, is preparing for Y's reception. Therefore, it's guaranteed to be a splendid affair.",fallacy of credibility
+X is planning the reception because no one can demonstrate he isn't preparing for Y's reception.,intentional fallacy
+"If X prepares for Y's reception, then Y is getting married. Y is getting married. Therefore, X is preparing for Y's reception.",deductive fallacy
+"X and Y plan a vacation trip. X and Y are my friends. Therefore, all of my friends are planning a vacation trip.",faulty generalization
+"X and Y planned a vacation trip and subsequently, they had a fight. Therefore, planning the vacation trip caused their fight.",false causality
+X and Y plan a vacation trip because they're good at planning. They're good at planning because they plan a vacation trip.,circular reasoning
+"A lot of people believe X and Y plan a vacation trip, therefore, it must be a fact that they are planning.",ad populum
+"""X and Y are either planning a vacation trip to fix issues in their relationship, or as an escape from their mundane lifestyles.""",false dilemma
+"X and Y plan a vacation trip, but the real issue is not their vacation, but rather ensuring every child receives an education.",fallacy of relevance
+"X and Y are planning a vacation trip. X is known to be an absent-minded person. Therefore, their trip planning is likely to be flawed.",ad hominem
+You must take a trip with X and Y. Think about the great memories and bonding time you'll create.,appeal to emotion
+"Person A: X and Y plan a vacation trip. Person B: So you mean X and Y want to just uproot their entire lives and become travelers, neglecting their responsibilities at home?",fallacy of extension
+"Travel enthusiasts X and Y plan a vacation trip. Therefore, their choices about holiday destinations must be considered better.",fallacy of credibility
+"X and Y are planning a vacation trip because, until now, nobody has proven they aren't.",intentional fallacy
+"If X or Y plan a trip, they are going on vacation. Y is planning a trip. Therefore, X is not planning the trip.",deductive fallacy
+"X does not enjoy movies. X is a teenager. Therefore, all teenagers do not enjoy movies.",faulty generalization
+"X does not enjoy movies and then he started reading more books. Thus, disliking movies causes X to start reading more books.",false causality
+X does not enjoy movies because X doesn't like films.,circular reasoning
+"Most people think that X does not enjoy movies, therefore, it must be true that he does not.",ad populum
+"""X either refrains from visiting a cinema owing to his lack of enjoyment for movies, or he has no interest in any form of amusement.""",false dilemma
+"X does not enjoy movies, but the more pressing concern should be the negative impacts of excessive screen time in general on our health.",fallacy of relevance
+"X does not like movies, likely because he’s an uninteresting person. Therefore, movies are great.",ad hominem
+X must hate being happy and relaxed since he doesn't enjoy watching movies. Movies provide such a great escape from our stressful reality.,appeal to emotion
+"A: X does not enjoy movies. B: So, you're saying X is opposed to the concept of entertainment and fun? That's ridiculous!",fallacy of extension
+"World-renowned actor X claims that he does not enjoy movies. X has been in the film industry for years, so his words carry weight. Hence, we should believe that movies might not be enjoyable.",fallacy of credibility
+"Since no one has proven that X loves movies, it is therefore safe to say that X doesn't enjoy them.",intentional fallacy
+"If X enjoys movies, then he enjoys going to the cinema. X does not enjoy movies. Therefore, X does not enjoy going to the cinema.",deductive fallacy
+"X rushes Y to the hospital. Y is a patient, so X will take all the patients to the hospital.",faulty generalization
+"X rushed Y to the hospital and she miraculously recovered. Therefore, it was X's act of rushing her that healed her.",false causality
+X is being helpful because he rush Y to the hospital and Y is rushed to the hospital because X is helpful.,circular reasoning
+"Most people think X rushing Y to the hospital is for a serious reason, therefore it must be serious.",ad populum
+"""Either X hastily transports Y to the hospital due to Y's critical state, or X is overly anxious and blowing things out of proportion.""",false dilemma
+"X rushes Y to the hospital, but that's not going to solve the problem of traffic congestion in our city.",fallacy of relevance
+"X is saying he rushed Y to the hospital. But X is known to be irresponsible and reckless, so his claim cannot be true.",ad hominem
+X rushed Y to the hospital! Can't you just imagine Y's terror as they struggled to find help? We must commend X's heroic actions and courage.,appeal to emotion
+A: X rushes Y to the hospital. B: So you're saying that X is responsible for Y's condition and rushes him to the hospital?,fallacy of extension
+"X, a professional car racer, rushes Y to the hospital. Since X has great driving skills, Y must receive the best immediate attention.",fallacy of credibility
+"No one knows who rushed Y to the hospital, so it was X.",intentional fallacy
+"If X is a doctor, then X can rush Y to the hospital. X does rush Y to the hospital. Therefore, X is a doctor.",deductive fallacy
+"I must organize the bedroom today. I am a person living in a house. Therefore, all people living in a house must organize their bedrooms today.",faulty generalization
+"When I organized the bedroom, I found an old photo. Obviously, organizing the bedroom causes old memories to resurface.",false causality
+It's necessary to organize the bedroom today because I need to get the bedroom organized.,circular reasoning
+"A sizable number of people think that I must organize the bedroom today. Therefore, it is essential that I do so.",ad populum
+"""Either I'll be living in mess forever, or I must organize the bedroom today.""",false dilemma
+"It is claimed that I must organize the bedroom today, whereas we should be worried about global water shortages.",fallacy of relevance
+He can't possibly give us tips on how to organize the bedroom. He's a total slob.,ad hominem
+"Today, I need to organize the bedroom. If I don't, I will feel disoriented and anxious in the cluttered space, affecting my entire day badly.",appeal to emotion
+"A: I must organize the bedroom today. B: So you're saying we should live a boring, routine life and everything should always be squeaky clean?",fallacy of extension
+"Marie Kondo, a renowned organizing expert, agrees that I must organize the bedroom today. Therefore, it is the best course of action.",fallacy of credibility
+"I must organize the bedroom today because if I don't, I predict everything will be a messy chaos.",intentional fallacy
+"If the bedroom is disorganized, I have to organize it today. The bedroom is not disorganized. Therefore, I do not have to organize it today.",deductive fallacy
+"Pets are allowed in some managed buildings. My apartment building is a managed building. Therefore, pets are allowed in all the buildings in our community.",faulty generalization
+"Pets are in some managed buildings. Therefore, allowing pets must be causing the buildings to be managed.",false causality
+Pets are allowed in these buildings because the buildings allow pets.,circular reasoning
+"It is widely accepted that pets are allowed in some managed buildings, so it must be a fact.",ad populum
+"""Either all managed buildings permit pets, or every building's management detests pets.""",false dilemma
+"Pets are allowed in some managed buildings, yet it would be better to prioritize the need for more parking spaces.",fallacy of relevance
+"The building manager says pets are allowed in some buildings. But this is the same guy who can't remember where he parked his car. Clearly, his claim isn't true.",ad hominem
+"Think about all those cute, friendly and sweet animals – who could deny them the right to be housed in managed buildings? But note, such allowance doesn't necessarily imply the building is well-suited for pets.",appeal to emotion
+Person 1: Pets are allowed in some managed buildings. Person 2: So you're suggesting that management encourages pest infestation and ruins property values through pet allowance? That's a ridiculous notion.,fallacy of extension
+"The management of some buildings allow pets. Since they are professionals in real estate management, their decision of allowing pets must be sound.",fallacy of credibility
+Pets are allowed in some managed buildings because no one has provided evidence that they're prohibited.,intentional fallacy
+"If pets are allowed a building, then the building is well managed. This building is not pet friendly, therefore it is not well managed.",deductive fallacy
+"The soccer game I watched ended in a draw. That soccer game was a national league game, so all national league soccer games end in a draw.",faulty generalization
+"The soccer game ended in a draw after I missed it. Thus, my missing caused the draw of the soccer game.",false causality
+The match ended in a draw because no team won. No team won because the match ended in a draw.,circular reasoning
+"Many people agree that the soccer game ended in a draw, therefore it was a draw.",ad populum
+"""Should the soccer match conclude with a draw, it's either the case that the team's strategy faltered, or the umpire favored one side.""",false dilemma
+"The soccer game ended in a draw, but the real issue is reducing violence in sports.",fallacy of relevance
+"John says the soccer game ended in a draw. But John flunked math in school, so he can't possibly understand the intricacies of score-keeping.",ad hominem
+"You can't believe that the soccer game ended in a draw, can you? Think about the efforts that the players put in, they were incredibly passionate and played with all their hearts out.",appeal to emotion
+Fan 1: The soccer game ended in a draw. Fan 2: So you're saying both teams played so badly that they couldn't even score a goal? That's ridiculous!,fallacy of extension
+"Highly respected sports analysts declared the soccer game ended in a draw. Hence, it must be a balanced game.",fallacy of credibility
+"Since no one knows which team won, the soccer game ended in a draw.",intentional fallacy
+"If a soccer game ends in a draw, then the two teams are equally matched. However, the soccer game is not a draw, so the two teams are not equally strong.",deductive fallacy
+"The concert was cancelled due to bad weather. This concert was an outdoor event. Therefore, all outdoor events are cancelled due to bad weather.",faulty generalization
+"The concert was cancelled and the weather was bad, so the cancellation must have caused the bad weather.",false causality
+The concert was cancelled which is the reason why the concert got called off.,circular reasoning
+"Due to the widespread notion that bad weather led to the concert's cancellation, it is then established as a fact.",ad populum
+"""The concert was called off because of poor weather conditions, or the band simply did not have the necessary skill to perform.""",false dilemma
+"The concert was cancelled due to bad weather, although it's more pertinent to discuss declining interest in this type of music.",fallacy of relevance
+"Of course you'd support the concert being cancelled due to bad weather, you can't even carry a tune. Your opinion on this doesn't count.",ad hominem
+"Think about how hard the artists practiced for this concert, only to be overshadowed by bad weather. It really draws tears to your eyes, doesn't it? So it’s absolutely justified for the concert to be cancelled.",appeal to emotion
+Mike: The concert was cancelled due to bad weather. Jill: So what you're saying is that promoters should be weather geniuses to decide when to schedule a concert?,fallacy of extension
+"The local weather station said the concert was cancelled due to bad weather. They're always correct on these matters, therefore the concert cancellation was justified.",fallacy of credibility
+"You can't prove that the concert was cancelled for any other reason, so it must have been due to the bad weather.",intentional fallacy
+"If the concert was cancelled, then it must be bad weather. The concert is not cancelled. Therefore, the weather is nice.",deductive fallacy
+My laptop was stolen when I left it in the cafetaria. Therefore all cafetarias are unsafe for keeping valuable items.,faulty generalization
+"My laptop was stolen right after I left it unattended at the café. Therefore, leaving it unattended caused it to be stolen.",false causality
+My laptop was stolen because Someone stole my laptop.,circular reasoning
+"So it's universally accepted that my laptop was stolen; hence, it is unquestionably the reality.",ad populum
+"""My laptop has either been snatched by a criminal, or I just heedlessly lost it somewhere.""",false dilemma
+"My laptop was stolen, but let's discuss cell phone addiction among teenagers instead.",fallacy of relevance
+"You claim that your laptop was stolen, but you are the one who failed the IT class. Clearly, you don't know much about computers, so your claim isn't credible.",ad hominem
+"I am really distraught that my laptop was stolen. Please trust me, it's true. I had all my life's work on it.",appeal to emotion
+"Person A: My laptop was stolen. Person B: So you're saying you left your laptop in an insecure place, inviting theft? That's irresponsible.",fallacy of extension
+"The police say my laptop was stolen. They're the authorities who solve crimes, therefore it must be true.",fallacy of credibility
+My laptop was stolen because no one was sure it wasn't lost.,intentional fallacy
+"If my laptop was not at the office, then it would be stolen. My laptop was stolen. Hence, my laptop was not at the office.",deductive fallacy
+"The garden in my home needs watering. Gardens are a part of homes. Therefore, all homes need watering.",faulty generalization
+"I watered the garden and then flowers bloomed. Therefore, watering caused the flowers to bloom.",false causality
+Watering is needed in the garden because the garden needs watering.,circular reasoning
+"A lot of people think that the garden needs watering, therefore it must be right.",ad populum
+"""The garden either requires watering or it has reached an irrevocable state of death.""",false dilemma
+"The garden needs watering, but what about the larger issue of water conservation?",fallacy of relevance
+"Jane claims the garden needs watering, but she is an incompetent gardener. Therefore, the garden does not need watering.",ad hominem
+The garden is practically begging for water. Can't you hear its thirsty leaves crying out for a refreshing splash of water? Let's not disappoint the poor plants.,appeal to emotion
+Person A: The garden needs watering. Person B: So you're saying we should neglect everything else and just focus on the garden?,fallacy of extension
+He knows everything and he said the garden needs watering. So we should believe this.,fallacy of credibility
+The garden does need watering because no one said it didn't.,intentional fallacy
+"If the garden needs watering, it will inevitably be sweltering outside. Gardens don't need watering, so it's cool outside.",deductive fallacy
+"The cake has a cherry on top. The cake is a baked good. Therefore, all baked goods have a cherry on top.",faulty generalization
+The cake has a cherry on top and it's delicious. Thus it must be the cherry that made the cake delicious.,false causality
+The cake is topped with a cherry because it has a cherry on top.,circular reasoning
+"Since most believe that the cake has a cherry on top, it must undoubtedly have one.",ad populum
+"""If it's not a black forest cake with a cherry on top, then it must not be a cake.""",false dilemma
+"The cake has a cherry on top, but isn't it more important to talk about the excessive use of sugar in our foods, which leads to diabetes?",fallacy of relevance
+"Baker Tom says the cake has a cherry on top. But Tom failed his health inspection last month, so the cake obviously doesn’t have a cherry on top.",ad hominem
+"Believe me, that cake with the cherry on top is delicious. It generates an instant sense of happiness and a feeling of comfort. You don't need to try it to know it's true.",appeal to emotion
+Customer: The cake has a cherry on top. Baker: So you're saying that it's filled with cherries? That's just absurd.,fallacy of extension
+The cake has a cherry on top. The well-respected baker said so. Therefore it must be true.,fallacy of credibility
+"Since no one knows what's on this cake, it has a cherry on top.",intentional fallacy
+"Should a cake be adorned with a cherry on top, that means it's a fruit cake. This cake is a fruit cake, so it must have a cherry on top.",deductive fallacy
+"Lighters cannot be carried on airplanes. Lighters are a personal item, so all personal items cannot be carried on airplanes.",faulty generalization
+"Lighters cannot be carried on airplanes. Hence, carrying a lighter leads to plane crashes.",false causality
+Airplanes don't permit the carrying of lighters because lighters cannot be carried on airplanes.,circular reasoning
+"A lot of people believe that lighters cannot be carried on airplanes. Therefore, this must be an essential security measure.",ad populum
+"""We either ban lighters from airplanes, or we risk summoning a possible fire danger.""",false dilemma
+Lighters cannot be carried on airplanes. This implies that our priority should be the effects of smoking on public health.,fallacy of relevance
+"The TSA agent is saying lighters cannot be carried on airplanes. But he failed his high school physics class. Therefore, his claim is not true.",ad hominem
+"If you attempt to bring a lighter onto an airplane, you're practically inviting a disaster. Can you imagine the fear and panic you'd cause among the innocent families, children, and elders on that flight?",appeal to emotion
+"Security Agent: Lighters cannot be carried on airplanes. Passenger: So, you're saying all travelers are potential fire hazards?",fallacy of extension
+"The Federal Aviation Administration states that lighters cannot be carried on airplanes. They are experts in aviation safety, therefore as passengers, we should respect their directives.",fallacy of credibility
+"Since no one said lighters can be taken on airplanes, this is not allowed.",intentional fallacy
+"If lighters are flammable, they cannot be carried on airplanes. Lighters cannot be carried on airplanes. Therefore, lighters are flammable.",deductive fallacy
+"It is snowing in the desert. The desert is a type of geographical area. Therefore, all geographical areas experience snow.",faulty generalization
+"It started snowing in the desert right after I arrived. So, my arrival must have caused the snowfall in the desert!",false causality
+It's snowing in the desert because the desert is witnessing snowfall.,circular reasoning
+"Most people say it's snowing in the desert, so this must indeed be the case.",ad populum
+"""Either climate change is the reason it's snowing in the desert, or it's an inexplicable miracle we are experiencing.""",false dilemma
+"It's snowing in the desert, yet we are not addressing the larger issue of water scarcity in most urban areas.",fallacy of relevance
+"John suggested it's snowing in the desert, but he is such an idiot, so it is not true.",ad hominem
+"Can you imagine the sheer wonder of snow in the desert? It is quite breathtaking and majestic. Thus, it's undeniably true that it's snowing in the desert right now.",appeal to emotion
+Person A: It's snowing in the desert. Person B: So you're suggesting that arid regions are now becoming colder and glaciers are forming in the middle of Sahara? That's absurd!,fallacy of extension
+"The top weather experts report it's snowing in the desert. They are experts in meteorology, therefore this report should be believed.",fallacy of credibility
+"You can't provide evidence that it's not snowing in the desert, therefore it must be true.",intentional fallacy
+"Since it's snowing, it must be winter. It's winter in the desert, so it must be snowing there.",deductive fallacy
+"It may rain tomorrow. Tomorrow is a day in April. Therefore, it rains every day in April.",faulty generalization
+"Every time I wash my car, it rains the next day. So, it may rain tomorrow because I washed my car today.",false causality
+It may rain tomorrow because the sky may be cloudy. The sky may be cloudy because it may rain tomorrow.,circular reasoning
+"Most people think it may rain tomorrow, so it must be going to rain tomorrow.",ad populum
+"""Tomorrow's precipitation is either a reality, or the meteorological predictions are deceiving us.""",false dilemma
+"It may rain tomorrow, however, we need to worry about our country's current economic state instead.",fallacy of relevance
+"Bob says it may rain tomorrow, but he has failed his weather forecasting class. Therefore, it's not going to rain tomorrow.",ad hominem
+It might rain tomorrow. Think about how disappointing it will be for the kids if their playdate gets rained out. They've been anticipating it all week.,appeal to emotion
+Person X: It may rain tomorrow. Person Y: So you're saying we're going to be flooded?,fallacy of extension
+She knows everything and he said it may rain tomorrow. So we should believe this.,fallacy of credibility
+"If you can't prove that it won't rain tomorrow, then it must indeed rain.",intentional fallacy
+"If it's cloudy, it may rain tomorrow. It may rain tomorrow. Therefore, it's cloudy today.",deductive fallacy
+"Chocolate truffles are loaded with calories. I once ate a chocolate bar that was high in calories. Therefore, all chocolate products must be unhealthy.",faulty generalization
+"Melatonin helps relieve jet lag. My friend used it once and felt better. Therefore, melatonin cures all sleep problems.",faulty generalization
+"Not all political candidates are completely truthful. One candidate lied during a debate. Therefore, no politician can be trusted.",faulty generalization
+"Some spouses have been unfaithful in relationships. My neighbor’s spouse cheated. Therefore, no spouse is ever faithful.",faulty generalization
+"Naomi Osaka plays professional tennis. I saw her win a match. Therefore, all tennis players must be champions like her.",faulty generalization
+"All film stars are celebrities. I saw one on TV last night. Therefore, anyone who appears on TV must be a celebrity.",faulty generalization
+"Some film stars are men. Brad Pitt is a male film star. Therefore, most film stars must be men.",faulty generalization
+"Tortured prisoners will say anything just to relieve the pain. One prisoner confessed falsely under torture. Therefore, no confession under pressure is ever true.",faulty generalization
+"All mammals have hearts. I have a dog that’s a mammal. Therefore, every animal must have a heart.",faulty generalization
+"Some books are written by artificial intelligence. I read one that was. Therefore, soon all books will be written by AI.",faulty generalization
+"Every Olympic athlete trains daily. My cousin trains every day. Therefore, she must be an Olympic athlete.",faulty generalization
+"Some teachers assign homework over the weekend. My teacher did last week. Therefore, all teachers give weekend homework.",faulty generalization
+"My neighbor has never traveled abroad. He's a retired man. Therefore, all retired people must have stayed in their home country.",faulty generalization
+"Most children enjoy playing outside. My daughter loves the park. Therefore, every child must love being outdoors.",faulty generalization
+"Jon has cooked steak that other chefs consider restaurant quality. I tried it once. Therefore, Jon is better than most chefs.",faulty generalization
+"Cryptocurrency prices fluctuate wildly. I lost money on Bitcoin once. Therefore, all cryptocurrencies are a scam.",faulty generalization
+"The sun sets in the west. I saw it set there yesterday. Therefore, it must set in the exact same spot every day.",faulty generalization
+"Honey never spoils. I’ve had the same jar for years. Therefore, all sweet foods last forever.",faulty generalization
+"Many people believe time helps emotional recovery. My cousin got over a breakup in a week. Therefore, time heals everything.",faulty generalization
+"The Great Wall of China is visible from space. My teacher said so once. Therefore, all large buildings can be seen from space.",faulty generalization
+"Some lawyers have been accused of dishonesty in court. One lawyer lied in a case I followed. Therefore, all lawyers are dishonest.",faulty generalization
+"Most social media platforms are addictive. My friend checks Instagram constantly. Therefore, all apps are addictive.",faulty generalization
+"Nothing can travel faster than light. My science teacher told me that. Therefore, no future discovery will ever change this.",faulty generalization
+"Nobody enjoys waiting in traffic. I get annoyed every time. Therefore, traffic should be banned entirely.",faulty generalization
+"Some dogs are trained to detect seizures. I saw one in a video. Therefore, all dogs are capable of being service animals.",faulty generalization
+"Not all electric cars are environmentally friendly. I read about one model with issues. Therefore, electric cars are no better than gas ones.",faulty generalization
+"Albert Einstein developed the theory of relativity. He was a physicist. Therefore, all physicists create groundbreaking theories.",faulty generalization
+"Every continent has experienced climate change. It snowed last week in my city. Therefore, climate change must cause every weather event.",faulty generalization
+"Bananas contain potassium. I eat them after workouts. Therefore, bananas are the best health food.",faulty generalization
+"The internet was invented before smartphones. I remember using dial-up. Therefore, smartphones are just a minor upgrade to the internet.",faulty generalization
+"No reptiles produce milk. I’ve never seen a lizard near milk. Therefore, reptiles can't care for their young.",faulty generalization
+"Most modern airplanes can fly above 30,000 feet. I flew on one last summer. Therefore, any machine that flies must reach that height.",faulty generalization
+"Some people believe in extraterrestrial life. My friend saw a UFO. Therefore, aliens definitely exist and visit Earth.",faulty generalization
+"Chocolate truffles are loaded with calories, so they must be the reason I’m always tired.",false causality
+"Melatonin helps with jet lag, so jet lag must be caused by not taking melatonin.",false causality
+"Not all political candidates are truthful, so voting must cause dishonesty.",false causality
+"Some spouses have been unfaithful, which is probably why marriages are expensive.",false causality
+"Naomi Osaka plays tennis, so she must have caused tennis to become popular.",false causality
+"All film stars are celebrities, so becoming a celebrity must make you act in films.",false causality
+"Some film stars are men, so men must be the reason movies exist.",false causality
+"Tortured prisoners will say anything, so torture must make people intelligent.",false causality
+"All mammals have hearts, so the heart must be what makes something a mammal.",false causality
+"Some books are written by AI, so AI must be the reason people read more now.",false causality
+"Olympic athletes train daily, so training daily must make you famous.",false causality
+"Some teachers assign weekend homework, so the weekend must be why students hate school.",false causality
+"My neighbor hasn’t traveled abroad, so travel bans must be in place.",false causality
+"Most children enjoy playing outside, so fresh air must cause childhood.",false causality
+"Jon’s steak tastes great, so clearly he has a five-star kitchen.",false causality
+"Crypto fluctuates wildly, so it must be because of internet memes.",false causality
+"The sun sets in the west, so western countries must control the sun.",false causality
+"Honey never spoils, so it must be the reason bees live so long.",false causality
+"Many people believe time heals emotional wounds, so clocks must be therapeutic.",false causality
+"The Great Wall is visible from space, so China built it to be seen by aliens.",false causality
+"Some lawyers are dishonest, so law school must teach dishonesty.",false causality
+"Most social media is addictive, so phone screens must release chemicals.",false causality
+"Nothing travels faster than light, so light must be slowing everything else down.",false causality
+"Nobody enjoys traffic, so city planning must be a punishment.",false causality
+"Some dogs detect seizures, so seizures must emit dog-attracting signals.",false causality
+"Not all electric cars are green, so electricity must be worse than gas.",false causality
+"Einstein developed relativity, so German education must cause genius.",false causality
+"Every continent has climate change, so geography must cause warming.",false causality
+"Bananas contain potassium, so eating them must improve cell phone signals.",false causality
+"The internet came before smartphones, so the internet must have invented phones.",false causality
+"No reptiles produce milk, so milk must repel cold-blooded animals.",false causality
+"Most airplanes fly above 30,000 feet, so altitude must cause safety.",false causality
+"Some people believe in aliens, so Hollywood must be in contact with them.",false causality
+Chocolate truffles are bad for you because they are unhealthy.,circular reasoning
+Melatonin helps you sleep because it is a sleep aid.,circular reasoning
+Not all political candidates are truthful because they often lie.,circular reasoning
+Some spouses have been unfaithful because they’ve cheated.,circular reasoning
+Naomi Osaka is a great player because she plays professional tennis.,circular reasoning
+All film stars are celebrities because they are famous actors.,circular reasoning
+Some film stars are men because some male actors are film stars.,circular reasoning
+Tortured prisoners will say anything because they are being tortured.,circular reasoning
+All mammals have hearts because mammals are the kind of animals that have hearts.,circular reasoning
+Some books are written by AI because AI has written some books.,circular reasoning
+Every Olympic athlete trains daily because daily training is what Olympic athletes do.,circular reasoning
+Some teachers assign homework over the weekend because those teachers give assignments on weekends.,circular reasoning
+My neighbor hasn’t traveled abroad because he’s never left the country.,circular reasoning
+Most children enjoy playing outside because they like being outdoors.,circular reasoning
+Jon has cooked restaurant-quality steak because it tastes like steak from a restaurant.,circular reasoning
+Cryptocurrency prices fluctuate because they change a lot.,circular reasoning
+The sun sets in the west because that’s where the sun goes down.,circular reasoning
+Honey never spoils because it doesn’t go bad.,circular reasoning
+Time heals emotional wounds because it helps people recover emotionally over time.,circular reasoning
+The Great Wall is visible from space because astronauts can see it from space.,circular reasoning
+Some lawyers are dishonest because they don’t always tell the truth.,circular reasoning
+Most social media is addictive because people get addicted to it.,circular reasoning
+Nothing travels faster than light because the speed of light is the fastest.,circular reasoning
+Nobody enjoys traffic because it’s unenjoyable.,circular reasoning
+Some dogs detect seizures because they are seizure-detecting dogs.,circular reasoning
+Not all electric cars are green because some electric cars are not environmentally friendly.,circular reasoning
+Einstein developed the theory of relativity because it was developed by Einstein.,circular reasoning
+Every continent has experienced climate change because climate change has affected all continents.,circular reasoning
+Bananas contain potassium because potassium is in bananas.,circular reasoning
+The internet was invented before smartphones because smartphones came after the internet.,circular reasoning
+No reptiles produce milk because reptiles are animals that don’t make milk.,circular reasoning
+"Most modern airplanes can fly above 30,000 feet because that’s the altitude they usually reach.",circular reasoning
+Some people believe in extraterrestrial life because they think aliens exist.,circular reasoning
+Chocolate truffles must be healthy—everyone eats them at parties.,ad populum
+Melatonin helps with jet lag—millions of people use it every night.,ad populum
+Not all political candidates are truthful—most people already assume that.,ad populum
+Some spouses have been unfaithful—just look at how many people get divorced.,ad populum
+Naomi Osaka plays tennis—everyone is watching her matches.,ad populum
+All film stars are celebrities—just ask anyone who reads magazines.,ad populum
+"Some film stars are men—most movies are led by men, so that must be the norm.",ad populum
+Tortured prisoners will say anything—everybody knows that from the movies.,ad populum
+All mammals have hearts—no one disputes that.,ad populum
+Some books are written by AI—everyone’s talking about it online.,ad populum
+Every Olympic athlete trains daily—just ask the fans.,ad populum
+Some teachers assign weekend homework—students everywhere complain about it.,ad populum
+My neighbor hasn’t traveled abroad—most people in this town haven’t either.,ad populum
+Most children enjoy playing outside—just watch any playground.,ad populum
+Jon has cooked restaurant-quality steak—everyone who's tried it says it's amazing.,ad populum
+Crypto prices fluctuate wildly—everyone’s saying it’s the wild west of investing.,ad populum
+The sun sets in the west—everyone learns that in school.,ad populum
+Honey never spoils—people have believed that for centuries.,ad populum
+Many believe time helps recovery—because that’s what everyone says.,ad populum
+The Great Wall is visible from space—almost everyone believes that.,ad populum
+Some lawyers are dishonest—just ask the general public.,ad populum
+Most social media is addictive—everyone knows it ruins productivity.,ad populum
+Nothing travels faster than light—everyone accepts that from physics class.,ad populum
+Nobody enjoys traffic—everyone complains about it every day.,ad populum
+Some dogs detect seizures—everyone’s seen those stories.,ad populum
+Not all electric cars are green—most car buyers already know that.,ad populum
+Einstein developed relativity—every student learns that in school.,ad populum
+Every continent has experienced climate change—it's what all the news reports say.,ad populum
+Bananas contain potassium—everyone knows bananas are good for that.,ad populum
+The internet came before smartphones—anyone with a computer remembers that.,ad populum
+No reptiles produce milk—everyone who took biology knows that.,ad populum
+"Most airplanes fly above 30,000 feet—just ask any frequent flyer.",ad populum
+Some people believe in aliens—just look at all the documentaries on TV.,ad populum
+"Chocolate truffles are loaded with calories, so you either give them up or get fat.",false dilemma
+"Melatonin helps with jet lag, so you can either take it or suffer all night.",false dilemma
+"Not all political candidates are truthful, so you must either distrust all of them or be a blind follower.",false dilemma
+"Some spouses have been unfaithful, so either you constantly suspect your partner or you’ll be betrayed.",false dilemma
+"Naomi Osaka plays tennis, so you either support her or you're against women in sports.",false dilemma
+"All film stars are celebrities, so you either follow their lives or you're totally out of touch.",false dilemma
+"Some film stars are men, so either you accept male dominance or you reject the film industry.",false dilemma
+"Tortured prisoners will say anything, so you either believe everything is fake or trust no one ever.",false dilemma
+"All mammals have hearts, so either you believe in biology or you're anti-science.",false dilemma
+"Some books are written by AI, so you must choose between human writing or total automation.",false dilemma
+"Every Olympic athlete trains daily, so either you train like them or you're just lazy.",false dilemma
+"Some teachers assign weekend homework, so either you want smart kids or no weekends.",false dilemma
+"My neighbor has never traveled abroad, so either he's totally unworldly or a shut-in.",false dilemma
+"Most children enjoy playing outside, so either you let kids roam or you're stifling them.",false dilemma
+"Jon has cooked steak like a pro, so either he becomes a chef or he's wasting his life.",false dilemma
+"Crypto prices fluctuate wildly, so you either become rich or lose everything.",false dilemma
+"The sun sets in the west, so you either believe that or deny science entirely.",false dilemma
+"Honey never spoils, so either you stockpile it or risk wasting food forever.",false dilemma
+"Time heals emotional wounds, so either you wait or you’ll never heal.",false dilemma
+"The Great Wall is visible from space, so either you’re amazed or you're just ignorant.",false dilemma
+"Some lawyers are dishonest, so either you avoid them all or get betrayed.",false dilemma
+"Most social media is addictive, so you either quit or become a mindless scroll-bot.",false dilemma
+"Nothing travels faster than light, so either you accept physics or believe in fairy tales.",false dilemma
+"Nobody enjoys waiting in traffic, so either take public transit or stay home.",false dilemma
+"Some dogs detect seizures, so either you get a dog or risk your life.",false dilemma
+"Not all electric cars are green, so either drive gas or give up transportation.",false dilemma
+"Einstein developed relativity, so either you believe his theories or reject all science.",false dilemma
+"Every continent has faced climate change, so either we panic or ignore the planet.",false dilemma
+"Bananas contain potassium, so either eat them or risk deficiency.",false dilemma
+"The internet came before smartphones, so either go offline or use only old tech.",false dilemma
+"No reptiles produce milk, so either they’re not animals or they’re just aliens.",false dilemma
+"Most airplanes fly above 30,000 feet, so either you're safe or doomed.",false dilemma
+"Some people believe in aliens, so either we’re not alone or everyone’s delusional.",false dilemma
+Chocolate truffles are loaded with calories. But did you know the company that makes them donates to charity?,fallacy of relevance
+"Melatonin helps relieve jet lag. Anyway, it comes in a cute little bottle.",fallacy of relevance
+Not all political candidates are truthful. But one of them has a great smile.,fallacy of relevance
+"Some spouses have been unfaithful. But love is complicated, and weddings are expensive.",fallacy of relevance
+Naomi Osaka plays tennis. But she also wears really nice outfits on court.,fallacy of relevance
+"All film stars are celebrities. And speaking of celebrities, have you heard about their new fashion line?",fallacy of relevance
+Some film stars are men. But the movie industry has really good popcorn.,fallacy of relevance
+Tortured prisoners will say anything. But think about how many wars we’ve won.,fallacy of relevance
+"All mammals have hearts. Speaking of hearts, Valentine's Day is coming up.",fallacy of relevance
+Some books are written by AI. But AI can also play chess and compose music.,fallacy of relevance
+"Every Olympic athlete trains daily. But remember, sports bring people together.",fallacy of relevance
+Some teachers assign weekend homework. But students should be grateful for education.,fallacy of relevance
+My neighbor has never traveled abroad. But his lawn is always neatly trimmed.,fallacy of relevance
+Most children enjoy playing outside. But did you know playgrounds are expensive to maintain?,fallacy of relevance
+Jon has cooked restaurant-quality steak. But he also volunteers at the animal shelter.,fallacy of relevance
+"Cryptocurrency prices fluctuate wildly. But you have to admit, the logos look cool.",fallacy of relevance
+The sun sets in the west. But sunsets look beautiful from anywhere.,fallacy of relevance
+"Honey never spoils. Besides, it’s made by hardworking bees.",fallacy of relevance
+"Many believe time helps recovery. But calendars are often wrong, so who knows.",fallacy of relevance
+"The Great Wall is visible from space. But so are satellites, which are much smaller.",fallacy of relevance
+"Some lawyers are dishonest. But they pass the bar exam, so they must be smart.",fallacy of relevance
+Most social media is addictive. But it helps people share birthday wishes.,fallacy of relevance
+Nothing travels faster than light. But my Wi-Fi has been pretty fast lately.,fallacy of relevance
+Nobody enjoys traffic. But roads look great after it rains.,fallacy of relevance
+Some dogs detect seizures. But cats are more independent.,fallacy of relevance
+Not all electric cars are green. But they come in fun colors.,fallacy of relevance
+Einstein developed relativity. But he also had wild hair.,fallacy of relevance
+Every continent has faced climate change. But penguins are still cute.,fallacy of relevance
+Bananas contain potassium. But they’re also very easy to peel.,fallacy of relevance
+The internet came before smartphones. But smartphones have better games.,fallacy of relevance
+No reptiles produce milk. But they’re really good at hiding.,fallacy of relevance
+"Most airplanes fly above 30,000 feet. But the snack service is what really matters.",fallacy of relevance
+Some people believe in extraterrestrials. But crop circles look really artistic.,fallacy of relevance
+"Chocolate truffles are high in calories, but only a fool would avoid them completely.",ad hominem
+"Melatonin helps with jet lag, but you clearly have no idea what you're talking about if you think natural remedies work.",ad hominem
+"Not all political candidates are truthful, but you’re too naive to understand how politics works.",ad hominem
+"Some spouses have been unfaithful, but only bitter people bring that up.",ad hominem
+"Naomi Osaka plays tennis, but people who watch tennis are just elitist snobs.",ad hominem
+"All film stars are celebrities, but anyone who likes celebrities must be shallow.",ad hominem
+"Some film stars are men, but coming from someone who doesn’t even watch movies, that argument means nothing.",ad hominem
+"Tortured prisoners say anything, but of course you’d disagree—you’ve never been in a real conflict zone.",ad hominem
+"All mammals have hearts, but that’s just basic science you probably failed in school.",ad hominem
+"Some books are written by AI, but only tech-obsessed nerds care about that.",ad hominem
+"Every Olympic athlete trains daily, but if you think that matters, you clearly don’t understand real discipline.",ad hominem
+"Some teachers assign weekend homework, but you just hate education if you’re complaining.",ad hominem
+"My neighbor has never traveled abroad, but he’s ignorant anyway, so that doesn’t surprise me.",ad hominem
+"Most children enjoy playing outside, but only helicopter parents would disagree.",ad hominem
+"Jon has cooked steak like a pro, but he’s always showing off anyway.",ad hominem
+"Crypto fluctuates wildly, but you wouldn’t understand—it’s too advanced for someone like you.",ad hominem
+"The sun sets in the west, but only a complete moron would think that matters to this argument.",ad hominem
+"Honey never spoils, but only conspiracy theorists talk about food longevity like that.",ad hominem
+"Time heals emotional wounds, but you wouldn’t get it—you’re emotionally stunted.",ad hominem
+"The Great Wall is visible from space, but only a gullible person would believe that old myth.",ad hominem
+"Some lawyers are dishonest, but you hate lawyers only because you lost a case.",ad hominem
+"Most social media is addictive, but you’re just jealous because you don’t have any followers.",ad hominem
+"Nothing travels faster than light, but science deniers like you wouldn’t know that.",ad hominem
+"Nobody enjoys traffic, but you seem to enjoy whining more than solving problems.",ad hominem
+"Some dogs detect seizures, but of course you’d argue against that—you hate animals.",ad hominem
+"Not all electric cars are green, but coming from someone who drives a gas guzzler, your opinion is irrelevant.",ad hominem
+"Einstein developed relativity, but you probably never even finished high school science.",ad hominem
+"Every continent has experienced climate change, but climate change deniers like you don’t understand evidence.",ad hominem
+"Bananas contain potassium, but you can’t even spell potassium correctly.",ad hominem
+"The internet came before smartphones, but old people always cling to the past.",ad hominem
+"No reptiles produce milk, but you probably think lizards are mammals.",ad hominem
+"Most planes fly above 30,000 feet, but you’ve never flown in one, so how would you know?",ad hominem
+"Some people believe in aliens, but people like you will believe anything on the internet.",ad hominem
+Chocolate truffles are loaded with calories. Just imagine how ashamed you'll feel if your clothes stop fitting.,appeal to emotion
+Melatonin helps relieve jet lag. Think of how miserable and exhausted you'll be if you don’t take it.,appeal to emotion
+Not all political candidates are truthful. Don’t you feel betrayed just thinking about how they lie to us?,appeal to emotion
+Some spouses have been unfaithful. Don’t you feel heartbroken thinking about how marriage can be ruined like that?,appeal to emotion
+Naomi Osaka plays professional tennis. Don’t you want to support her? She’s gone through so much.,appeal to emotion
+All film stars are celebrities. Imagine how crushed they’d be if people stopped caring about them.,appeal to emotion
+Some film stars are men. Doesn’t it make you angry that we even have to mention that?,appeal to emotion
+Tortured prisoners will say anything. Imagine the unbearable pain they must be going through.,appeal to emotion
+All mammals have hearts. Isn’t it beautiful how we all share something so essential?,appeal to emotion
+Some books are written by AI. Doesn’t it scare you that machines are replacing human creativity?,appeal to emotion
+Every Olympic athlete trains daily. Don’t you feel lazy now?,appeal to emotion
+Some teachers assign weekend homework. Isn’t it cruel to ruin a child’s weekend like that?,appeal to emotion
+My neighbor has never traveled abroad. Don’t you feel sorry for someone who’s never seen the world?,appeal to emotion
+Most children enjoy playing outside. Wouldn’t it be tragic to deny them that joy?,appeal to emotion
+Jon has cooked restaurant-quality steak. Wouldn’t it be rude not to compliment him?,appeal to emotion
+Cryptocurrency prices fluctuate wildly. Imagine how terrified investors must be.,appeal to emotion
+The sun sets in the west. Isn’t it poetic how nature just knows what to do?,appeal to emotion
+Honey never spoils. Isn’t it comforting to know that some things last forever?,appeal to emotion
+Many believe time heals emotional wounds. Don’t you want to believe that pain doesn’t last forever?,appeal to emotion
+The Great Wall of China is visible from space. Don’t you feel amazed by how incredible humans can be?,appeal to emotion
+Some lawyers have been dishonest. Don’t you feel angry that justice can be corrupted?,appeal to emotion
+Most social media platforms are addictive. Think about the poor kids wasting their lives.,appeal to emotion
+Nothing can travel faster than light. Doesn’t that make you feel insignificant?,appeal to emotion
+Nobody enjoys waiting in traffic. Isn’t it frustrating just thinking about it?,appeal to emotion
+Some dogs detect seizures. Wouldn’t you feel safer with one around?,appeal to emotion
+Not all electric cars are environmentally friendly. Doesn’t it make you feel lied to by green companies?,appeal to emotion
+Albert Einstein developed relativity. Don’t you admire his genius and feel humbled?,appeal to emotion
+Every continent has experienced climate change. Don’t you worry about the future of your children?,appeal to emotion
+Bananas contain potassium. Wouldn’t it be tragic if people didn’t know that and got sick?,appeal to emotion
+The internet was invented before smartphones. Doesn’t it feel like everything is moving too fast?,appeal to emotion
+No reptiles produce milk. Isn’t it weird and unsettling how different they are?,appeal to emotion
+"Most modern airplanes can fly above 30,000 feet. Don’t you feel uneasy flying that high?",appeal to emotion
+Some people believe in extraterrestrial life. Isn’t that exciting—and just a little bit scary?,appeal to emotion
+"Chocolate truffles are loaded with calories, so eating one is basically the same as eating a bucket of lard.",fallacy of extension
+"Melatonin helps with jet lag, so clearly it's a miracle cure for all sleep problems.",fallacy of extension
+"Some political candidates are dishonest, so politics is just legalized lying.",fallacy of extension
+"Some spouses have been unfaithful, so marriage is just a failed institution.",fallacy of extension
+"Naomi Osaka plays tennis, so anyone who likes her must be obsessed with sports.",fallacy of extension
+"All film stars are celebrities, so clearly everyone in Hollywood is self-absorbed and fake.",fallacy of extension
+"Some film stars are men, so obviously men are taking over the entire industry.",fallacy of extension
+"Tortured prisoners will say anything, so every confession ever made under pressure is a complete lie.",fallacy of extension
+"All mammals have hearts, so if something doesn’t have a heart, it can’t be alive.",fallacy of extension
+"Some books are written by AI, so soon there’ll be no reason to read anything at all.",fallacy of extension
+"Olympic athletes train daily, so if you don’t, you must not care about your health at all.",fallacy of extension
+"Some teachers give weekend homework, so clearly they want students to have no life.",fallacy of extension
+"My neighbor hasn’t traveled abroad, so he must be ignorant of everything beyond his town.",fallacy of extension
+"Most children enjoy playing outside, so indoor kids are clearly unhealthy and antisocial.",fallacy of extension
+"Jon has cooked steak like a chef, so he should probably open a restaurant.",fallacy of extension
+"Crypto prices fluctuate wildly, so investing in crypto is like setting your money on fire.",fallacy of extension
+"The sun sets in the west, so the east must be completely dark all the time.",fallacy of extension
+"Honey never spoils, so you might as well live on honey forever.",fallacy of extension
+"Time heals emotional wounds, so there's no need for therapy or support.",fallacy of extension
+"The Great Wall is visible from space, so you could probably see your house from the moon.",fallacy of extension
+"Some lawyers are dishonest, so you can’t trust any legal advice.",fallacy of extension
+"Most social media is addictive, so anyone with a phone is a mindless zombie.",fallacy of extension
+"Nothing travels faster than light, so faster-than-light fiction is totally worthless.",fallacy of extension
+"Nobody likes traffic, so we should ban cars altogether.",fallacy of extension
+"Some dogs detect seizures, so all dogs should be trained as medical professionals.",fallacy of extension
+"Not all electric cars are green, so green tech is just one big scam.",fallacy of extension
+"Einstein developed relativity, so he must have known everything about everything.",fallacy of extension
+"Every continent has experienced climate change, so there’s nothing left to save.",fallacy of extension
+"Bananas contain potassium, so if you’re low on energy, just eat bananas nonstop.",fallacy of extension
+"The internet came before smartphones, so smartphones are just a useless add-on.",fallacy of extension
+"No reptiles produce milk, so they’re nothing like “real” animals.",fallacy of extension
+"Most planes fly above 30,000 feet, so flying lower must be incredibly unsafe.",fallacy of extension
+"Some people believe in aliens, so we’re clearly being watched and manipulated.",fallacy of extension
+Chocolate truffles are loaded with calories—just ask any celebrity nutritionist.,fallacy of credibility
+Melatonin helps with jet lag. A famous athlete swears by it.,fallacy of credibility
+Not all political candidates are truthful. Even my uncle who works in politics says so.,fallacy of credibility
+Some spouses have been unfaithful. Dr. Phil says it’s a widespread problem.,fallacy of credibility
+"Naomi Osaka plays tennis. Serena Williams said she's a true pro, so she must be.",fallacy of credibility
+All film stars are celebrities. The Academy Awards confirm their importance.,fallacy of credibility
+"Some film stars are men. An article in Men’s Health said it, so it’s true.",fallacy of credibility
+Tortured prisoners will say anything—top intelligence agencies agree.,fallacy of credibility
+All mammals have hearts. It’s in every biology textbook.,fallacy of credibility
+Some books are written by AI. Elon Musk even warned about AI taking over.,fallacy of credibility
+Every Olympic athlete trains daily. My coach told me that's how champions are made.,fallacy of credibility
+Some teachers assign weekend homework. The PTA newsletter complained about it.,fallacy of credibility
+My neighbor hasn’t traveled abroad. A travel blogger once said that’s a sign of cultural ignorance.,fallacy of credibility
+Most children enjoy playing outside. Pediatricians say it’s essential for development.,fallacy of credibility
+Jon’s steak is restaurant-quality. A food critic confirmed it.,fallacy of credibility
+Cryptocurrency prices fluctuate. CNBC reported the same thing last night.,fallacy of credibility
+The sun sets in the west. Every science teacher says so.,fallacy of credibility
+Honey never spoils. The FDA even recognizes its longevity.,fallacy of credibility
+Time heals emotional wounds. Oprah said it helped her.,fallacy of credibility
+The Great Wall is visible from space—Neil Armstrong supposedly confirmed it.,fallacy of credibility
+Some lawyers are dishonest. A judge once admitted it on camera.,fallacy of credibility
+Most social media is addictive. The Surgeon General issued a warning.,fallacy of credibility
+Nothing travels faster than light. Einstein proved it.,fallacy of credibility
+Nobody enjoys traffic. The mayor even admitted it’s a problem.,fallacy of credibility
+Some dogs detect seizures. A certified trainer says they’re life-saving.,fallacy of credibility
+Not all electric cars are eco-friendly. Even Tesla has critics.,fallacy of credibility
+Einstein developed relativity. Physicists still cite his work.,fallacy of credibility
+Every continent has faced climate change. The UN reports confirm this.,fallacy of credibility
+Bananas contain potassium. Nutrition labels prove it.,fallacy of credibility
+The internet was invented before smartphones. Wikipedia says so.,fallacy of credibility
+No reptiles produce milk. Every biology professor agrees.,fallacy of credibility
+"Most airplanes fly above 30,000 feet. The FAA recommends it.",fallacy of credibility
+Some people believe in aliens. Even some astronauts have said so.,fallacy of credibility
+"Chocolate truffles are high in calories, and I know you care about your health—so you obviously agree they’re bad.",intentional fallacy
+"Melatonin works for me, so clearly it’s the best solution for everyone.",intentional fallacy
+Not all political candidates are honest—just ask anyone who’s ever voted.,intentional fallacy
+"Some spouses cheat, and I’ve seen enough to know that’s all we need to say.",intentional fallacy
+"Naomi Osaka is a pro, so clearly tennis is the only sport worth watching.",intentional fallacy
+"Film stars are celebrities, and that proves they’re better than regular people.",intentional fallacy
+"Some film stars are men, which means gender equity in Hollywood is solved.",intentional fallacy
+"Tortured prisoners say anything—everyone knows that, so case closed.",intentional fallacy
+"All mammals have hearts, and you don’t need a science degree to understand that.",intentional fallacy
+Some books are written by AI. That’s all the proof we need that AI is taking over everything.,intentional fallacy
+"Olympic athletes train daily, which proves daily training is the only path to success.",intentional fallacy
+Some teachers assign weekend homework. That’s clearly why students are stressed.,intentional fallacy
+"My neighbor has never traveled abroad, and if that doesn’t make him uncultured, I don’t know what does.",intentional fallacy
+"Kids enjoy playing outside—so you obviously care about their well-being, right?",intentional fallacy
+"Jon’s steak is restaurant-quality, and saying otherwise is just jealousy.",intentional fallacy
+"Crypto fluctuates wildly. You wouldn’t want to lose money, would you?",intentional fallacy
+The sun sets in the west—don’t try to overcomplicate it.,intentional fallacy
+"Honey never spoils, and that’s all you need to know about natural foods.",intentional fallacy
+Time heals emotional wounds—why keep analyzing it?,intentional fallacy
+"The Great Wall is visible from space—if you don’t believe that, you’re missing the point.",intentional fallacy
+Some lawyers are dishonest. That should make you rethink everything.,intentional fallacy
+"Most social media is addictive. If you care about society, you’ll agree.",intentional fallacy
+Nothing’s faster than light. Stop overthinking it.,intentional fallacy
+"Nobody enjoys traffic, so let’s stop pretending it’s not a problem.",intentional fallacy
+Some dogs detect seizures. That alone makes them more useful than most people.,intentional fallacy
+Not all electric cars are green—just admit it already.,intentional fallacy
+Einstein developed relativity. Argue with that and you’re denying facts.,intentional fallacy
+"Every continent has faced climate change. So obviously, it’s real.",intentional fallacy
+Bananas contain potassium—do we really need a whole debate on that?,intentional fallacy
+The internet came before smartphones. That’s basic knowledge.,intentional fallacy
+"No reptiles produce milk—come on, that’s not even controversial.",intentional fallacy
+"Most airplanes fly above 30,000 feet—what else do you need to know?",intentional fallacy
+"People believe in aliens, and if they’re wrong, why hasn’t anyone proven it?",intentional fallacy
+"Chocolate truffles are loaded with calories. Therefore, anything with calories must be a truffle.",deductive fallacy
+"Melatonin helps jet lag. I’m not jet lagged, so melatonin must not help me sleep.",deductive fallacy
+"Not all political candidates are truthful. So, if someone is truthful, they can’t be a political candidate.",deductive fallacy
+"Some spouses have been unfaithful. Therefore, if you're faithful, you're not a spouse.",deductive fallacy
+"Naomi Osaka plays tennis. So, everyone who plays tennis is Naomi Osaka.",deductive fallacy
+"All film stars are celebrities. Therefore, all celebrities must be film stars.",deductive fallacy
+"Some film stars are men. Therefore, if you're not a man, you're not a film star.",deductive fallacy
+"Tortured prisoners will say anything. Therefore, anything said must be by a tortured prisoner.",deductive fallacy
+"All mammals have hearts. Therefore, anything with a heart must be a mammal.",deductive fallacy
+"Some books are written by AI. So if a book is written well, it must be AI.",deductive fallacy
+"Every Olympic athlete trains daily. I train daily, so I must be an Olympic athlete.",deductive fallacy
+"Some teachers assign weekend homework. So if I have no homework, I must not have a teacher.",deductive fallacy
+"My neighbor has never traveled abroad. So if you’ve traveled, you can’t be my neighbor.",deductive fallacy
+"Most children enjoy playing outside. Therefore, anyone who doesn’t is not a child.",deductive fallacy
+"Jon has cooked steak like a chef. Therefore, all chefs must be named Jon.",deductive fallacy
+"Crypto fluctuates wildly. Therefore, any fluctuating asset must be crypto.",deductive fallacy
+"The sun sets in the west. If the sun doesn’t set in the west, it must not be the sun.",deductive fallacy
+"Honey never spoils. This food spoiled, so it can't be honey.",deductive fallacy
+"Many believe time heals. If something isn’t healing, time must not exist.",deductive fallacy
+"The Great Wall is visible from space. This object isn’t, so it can’t be great.",deductive fallacy
+"Some lawyers are dishonest. Therefore, if you're honest, you're not a lawyer.",deductive fallacy
+"Most social media is addictive. So if it’s not addictive, it’s not social media.",deductive fallacy
+"Nothing travels faster than light. This moved faster, so it must not exist.",deductive fallacy
+"Nobody enjoys traffic. So if someone enjoys it, they must not be a person.",deductive fallacy
+"Some dogs detect seizures. Therefore, if a dog can't, it must not be a real dog.",deductive fallacy
+"Not all electric cars are green. So if it’s green, it’s not electric.",deductive fallacy
+"Einstein developed relativity. So if someone didn’t, they’re not Einstein.",deductive fallacy
+"Every continent has faced climate change. This place hasn’t, so it’s not a continent.",deductive fallacy
+"Bananas contain potassium. So if it has potassium, it must be a banana.",deductive fallacy
+"The internet came before smartphones. If something came after, it must be a smartphone.",deductive fallacy
+"No reptiles produce milk. This animal produces milk, so it can't be a reptile.",deductive fallacy
+"Most planes fly high. This one doesn’t, so it must not be a plane.",deductive fallacy
+"Some people believe in aliens. So if you don’t, you’re not a person.",deductive fallacy
