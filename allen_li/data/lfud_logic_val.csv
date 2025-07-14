@@ -1,0 +1,424 @@
+input,label,output
+"All electronic products need electricity. Electronics are part of my family. Therefore, everything in my house needs electricity.",0,faulty generalization
+"Since all electronic products need electricity, the increase in electricity has led to the popularization of electronics.",1,false causality
+All electronic products function because they utilize electricity. Such utilizations of electricity are attributed to the fact that all electronic products need electricity.,2,circular reasoning
+"Most people think that all electronic products need electricity, therefore, it is an undeniable fact.",3,ad populum
+"""Either every electronic item operates using electricity, or it becomes nonfunctional without it.""",4,false dilemma
+"All electronic products need electricity, but the bigger issue is that motor vehicles also need petrol to operate.",5,fallacy of relevance
+"John claims that all electronic products need electricity. But John failed his physics class in high school. Therefore, his claim is not true.",6,ad hominem
+You should buy this electronic product. It will really impress your friends and make them think you're on the leading edge of technology.,7,appeal to emotion
+"John: All electronic products need electricity. Mary: So you are saying without electricity, we might as well throw away all our devices? Therefore, your claim that all electronic products need electricity is absurd.",8,fallacy of extension
+"Experts at the Institute of Electrical Engineers say all electronics need electricity, so we should totally trust it.",9,fallacy of credibility
+"No one can prove that electronic products can work without electricity, then it confirms that they all need electricity.",10,intentional fallacy
+"If a gadget qualifies as an electronic product, it will require electricity. The gadget does require electricity. Consequently, the device is classified as an electronic product.",11,deductive fallacy
+"Peter has been to China. Peter is a European. Therefore, all Europeans have been to China.",0,faulty generalization
+"Peter visited China last year and he learned Mandarin. Therefore, going to China made him learn Mandarin.",1,false causality
+Peter traveled to China because he took a trip to China,2,circular reasoning
+"Given that a large number of individuals believe Peter traveled to China the previous year, one could assume this is indeed a fact.",3,ad populum
+"""Either Peter, a travel enthusiast, visited China last year, or he went because he has relatives living there.""",4,false dilemma
+"Peter visited China last year, but does he have ever considered the impact of air travel on carbon emissions？",5,fallacy of relevance
+"Peter is claiming he visited China last year. But Peter is a notorious liar. Therefore, his claim is false.",6,ad hominem
+Peter was really moved by the plight of the homeless children when he visited China last year. Don't you feel awful about the way they're living? We should all do something about it.,7,appeal to emotion
+"Person A: Peter visited China last year. Person B: So you're saying Peter collaborated with communists? That's a dangerous allegation. Therefore, it's false that Peter visited China last year.",8,fallacy of extension
+"Peter, who visited China last year and has extensive travel experience, claims that it was the best country he's visited. Therefore, China is indeed the best country to visit.",9,fallacy of credibility
+"Since no one can prove that Peter didn't come to China last year, he must have.",10,intentional fallacy
+"Supposing Peter made a trip to China, then he has learned to speak Chinese. Peter can speak Chinese. Therefore, Peter must visit China last year.",11,deductive fallacy
+"Ronald visited his grandparents. Ronald is a teenager. Therefore, all teenagers visit their grandparents.",0,faulty generalization
+"Ronald visited his grandparents and had a flu the next day. Hence, visiting his grandparents caused his flu.",1,false causality
+Ronald was at his grandparents' home because he visited his grandparents.,2,circular reasoning
+"Many people believe Ronald visited his grandparents. Therefore, Ronald visiting his grandparents is an undoubtable fact.",3,ad populum
+"""Either Ronald is quite the attentive grandson for visiting his grandparents, or he simply lacks any other worthwhile activities to invest his time in.""",4,false dilemma
+"Ronald visited his grandparents, which is why we should improve public transportation.",5,fallacy of relevance
+"Ronald visited his grandparents, but he's been divorced twice. Can we really trust his judgment or actions?",6,ad hominem
+Ronald is visiting his grandparents after they've spent weeks feeling alone and sad. It's crucial he does this - their happiness depends on it.,7,appeal to emotion
+"Person A: Ronald visited his grandparents. Person B: So Ronald travels around aimlessly, coming and going as he pleases, with no regard for his work responsibilities?",8,fallacy of extension
+"Noted historian, Ronald claimed that visiting grandparents has a significant positive effect on mental health. Therefore, his claim should be considered as fact.",9,fallacy of credibility
+"Since we can't prove that Ronald didn't visit his grandparents, it must be true that he did.",10,intentional fallacy
+"If Ronald goes on a holiday, he visits his grandparents. Ronald is not on a holiday. Therefore, Ronald has not visited his grandparents.",11,deductive fallacy
+"Cynthia made a beautiful painting. Cynthia is a member of my art class. Therefore, all members of my art class make beautiful paintings.",0,faulty generalization
+"Cynthia made a beautiful painting and then her friends start praising her creativity. As a result, this painting makes Cynthia more creative.",1,false causality
+Cynthia made a beautiful painting because the beautiful painting is made by Cynthia.,2,circular reasoning
+"People widely agree that Cynthia made a beautiful painting. Therefore, her painting must be a masterpiece.",3,ad populum
+"""Cynthia crafted this exquisite artwork either due to her professional artistry skills, or she was aided by mystical entities.""",4,false dilemma
+"Cynthia made a beautiful painting, but we should be first discussing the fact that art education in public schools is underfunded.",5,fallacy of relevance
+"Cynthia can't have made a beautiful painting, she is blind in one eye.",6,ad hominem
+"Cynthia put her heart and soul into that painting, how could you not find it beautiful? She cried over it for countless nights, you know.",7,appeal to emotion
+"Paul: Cynthia made a beautiful painting. Kate: So, you're implying that Cynthia has become a professional artist who can create masterpieces? Paul, nothing short of a Van Gogh or Picasso would be a masterpiece!",8,fallacy of extension
+"Cynthia, an esteemed artist, made a beautiful painting. Therefore, we should appreciate it due to her authority in art.",9,fallacy of credibility
+Cynthia's painting must be beautiful because no one has seen it and proven it is not beautiful.,10,intentional fallacy
+"If Cynthia attends art school, she makes beautiful paintings. Cynthia made a beautiful painting. Therefore, Cynthia attends art school.",11,deductive fallacy
+"Allison is knitting a sweater. Allison is a teenager. Therefore, all teenagers knit sweaters.",0,faulty generalization
+"Allison is knitting a sweater and it's currently winter. Undoubtedly, her knitting caused the cold weather.",1,false causality
+Allison is knitting a sweater because she is a great knitter. She is a great knitter because she is knitting a sweater.,2,circular reasoning
+"Most people observed Allison knitting a sweater. Therefore, Allison is good at knitting.",3,ad populum
+"""Allison is knitting a sweater either due to her inability to purchase one, or she is simply burdened with an excess of leisure time.""",4,false dilemma
+"Allison is knitting a sweater, but the real issue here is the harmful impact of fast fashion on the environment.",5,fallacy of relevance
+Allison is knitting a sweater but can she truly knit well when she failed her home economics class?,6,ad hominem
+"Allison has been pouring her heart and soul into the sweater she is knitting. You should really appreciate it, even if knitting is not necessarily the most efficient way to produce a sweater.",7,appeal to emotion
+"Person A: Allison is knitting a sweater. Person B: So, you are saying Allison plans to quit her job and become a full time knitwear designer?",8,fallacy of extension
+"Famous knitter, Allison claims that knitting a sweater is the best activity. Therefore, we should all start knitting sweaters.",9,fallacy of credibility
+Alison is knitting a sweater because no one can prove she isn't.,10,intentional fallacy
+"Allison is a creative person if she is knitting a sweater. Indeed, Allison has creativity. Thus, Allison is in the process of knitting a sweater.",11,deductive fallacy
+"Priscilla is participating in a charity run. Priscilla is a university student. Therefore, all university students are participating in charity runs.",0,faulty generalization
+"Priscilla participated in a charity run and the next day it rained. Hence, Priscilla's participation caused it to rain.",1,false causality
+Priscilla participates in the charity run because she is a participant in the charity run.,2,circular reasoning
+"Priscilla's participation in the charity run has been agreed by many, therefore it definitely has to be accurate.",3,ad populum
+"""Priscilla is participating in a charity run either due to her inherent generosity, or simply as a means to gain publicity.""",4,false dilemma
+"Priscilla is participating in a charity run, yet the problem of obesity in our country is more important to discuss.",5,fallacy of relevance
+"Priscilla can't be participating in a charity run, she used to be a shoplifter.",6,ad hominem
+You have to support Priscilla. Remember how she wept when she talked about her sister's illness? Participating in this charity run isn't just an event for her; it's a vital cause that can provide her sister the proper health treatment.,7,appeal to emotion
+John: Priscilla is participating in a charity run. Mary: So you're suggesting that Priscilla is trying to gain popularity by showing off to be charitable? That's just superficial!,8,fallacy of extension
+"Priscilla, a well-known fitness guru, is participating in a charity run. Hence, it is a worthy event to participate.",9,fallacy of credibility
+"Nobody can prove Priscilla isn't participating in the charity run, so she must be.",10,intentional fallacy
+"If Priscilla is an athlete, then she participates in runs. Priscilla is participating in a charity run. Therefore, Priscilla is an athlete.",11,deductive fallacy
+"X prepares for Y's reception. X is one of my colleagues. Therefore, all my colleagues are preparing for Y's reception.",0,faulty generalization
+"Whenever X prepares for Y's reception, it goes smoothly. So, X's preparation is the only reason for the successful reception.",1,false causality
+X prepares for Y's reception because Y needs a reception. Y needs a reception because X prepares for it.,2,circular reasoning
+"Many people think X is preparing for Y's reception. Therefore, X must be doing so.",3,ad populum
+"""Either X is getting ready for Y's reception out of intrigue, or with an intent to make her feel awkward.""",4,false dilemma
+"X prepares for Y's reception, yet a more pressing issue is the unfair distribution of food worldwide.",5,fallacy of relevance
+"X can't prepare for Y's reception correctly, everyone knows he's a slob.",6,ad hominem
+X must prepare for Y's reception. Can you imagine how heartbroken Y would be if everything was not organized perfectly after Y travelled all this way?,7,appeal to emotion
+"Person A: X prepares for Y's reception. Person B: So you're saying X is throwing an over-the-top, extravagant party for Y? X's preparation for Y's reception is a wrong move!",8,fallacy of extension
+"X, a renowned event planner, is preparing for Y's reception. Therefore, it's guaranteed to be a splendid affair.",9,fallacy of credibility
+X is planning the reception because no one can demonstrate he isn't preparing for Y's reception.,10,intentional fallacy
+"If X prepares for Y's reception, then Y is getting married. Y is getting married. Therefore, X is preparing for Y's reception.",11,deductive fallacy
+"Some spouses have been unfaithful in relationships. My neighbor's spouse cheated. Therefore, no spouse is ever faithful.",0,faulty generalization
+"Most children enjoy playing outside. My daughter loves the park. Therefore, every child must love being outdoors.",0,faulty generalization
+"The sun sets in the west. I saw it set there yesterday. Therefore, it must set in the exact same spot every day.",0,faulty generalization
+"Some spouses have been unfaithful, which is probably why marriages are expensive.",1,false causality
+"Most children enjoy playing outside, so fresh air must cause childhood.",1,false causality
+"The sun sets in the west, so western countries must control the sun.",1,false causality
+Some spouses have been unfaithful because they've cheated.,2,circular reasoning
+Most children enjoy playing outside because they like being outdoors.,2,circular reasoning
+The sun sets in the west because that's where the sun goes down.,2,circular reasoning
+Some spouses have been unfaithful—just look at how many people get divorced.,3,ad populum
+Most children enjoy playing outside—just watch any playground.,3,ad populum
+The sun sets in the west—everyone learns that in school.,3,ad populum
+"Some spouses have been unfaithful, so either you constantly suspect your partner or you'll be betrayed.",4,false dilemma
+"Most children enjoy playing outside, so either you let kids roam or you're stifling them.",4,false dilemma
+"The sun sets in the west, so you either believe that or deny science entirely.",4,false dilemma
+"Some spouses have been unfaithful. But love is complicated, and weddings are expensive.",5,fallacy of relevance
+Most children enjoy playing outside. But did you know playgrounds are expensive to maintain?,5,fallacy of relevance
+The sun sets in the west. But sunsets look beautiful from anywhere.,5,fallacy of relevance
+"Some spouses have been unfaithful, but only bitter people bring that up.",6,ad hominem
+"Most children enjoy playing outside, but only helicopter parents would disagree.",6,ad hominem
+"The sun sets in the west, but only someone trying to sound smart would bring that up.",6,ad hominem
+Some spouses have been unfaithful. Don't you feel heartbroken thinking about how marriage can be ruined like that?,7,appeal to emotion
+Most children enjoy playing outside. Wouldn't it be tragic to deny them that joy?,7,appeal to emotion
+"The sun sets in the west. Doesn't it fill you with awe and peace, knowing the universe is so orderly?",7,appeal to emotion
+"Some spouses have been unfaithful, so marriage is just a failed institution.",8,fallacy of extension
+"Most children enjoy playing outside, so indoor kids are clearly unhealthy and antisocial.",8,fallacy of extension
+"The sun sets in the west, so the east must be completely dark all the time.",8,fallacy of extension
+Some spouses have been unfaithful. Dr. Phil says it's a widespread problem.,9,fallacy of credibility
+Most children enjoy playing outside. Pediatricians say it's essential for development.,9,fallacy of credibility
+The sun sets in the west. Every science teacher says so.,9,fallacy of credibility
+"Some spouses cheat, and I've seen enough to know that's all we need to say.",10,intentional fallacy
+"Kids enjoy playing outside—so you obviously care about their well-being, right?",10,intentional fallacy
+The sun sets in the west—don't try to overcomplicate it.,10,intentional fallacy
+"If someone is a spouse, they may be unfaithful. This person is faithful. Therefore, they're not a spouse.",11,deductive fallacy
+"If someone is a child, they enjoy playing outside. This person doesn't enjoy playing outside. Therefore, they aren't a child.",11,deductive fallacy
+"If something is the sun, then it sets in the west. This thing doesn't set in the west. Therefore, it isn't the sun.",11,deductive fallacy
+"Falsely requiring an opponent to “disprove” instead
+of you “proving” your argument",10,intentional fallacy
+Beyond Meat burgers are healthy for us because they do not have any meat in them.,9,fallacy of credibility
+everyone is doing it mentality,3,ad populum
+"Person 1: I think pollution from humans contributes to climate change.
+
+Person 2: So, you think humans are directly responsible for extreme weather, like hurricanes, and have caused the droughts in the southwestern U.S.?",8,fallacy of extension
+"My dad is a mechanic and he says that eating brushing your teeth twice a day is good for you. Since he is a mechanic, he knows best.",9,fallacy of credibility
+The meteorologist predicted the wrong amount of rain for May. Obviously the meteorologist is unreliable.,0,faulty generalization
+"Which fallacy am I? Combining facts and evidence with words that stir up emotion, with the attempt to manipulate others into accepting the truth of the argument.",7,appeal to emotion
+"A: I don't want to visit McDonald's today.
+B: So you're just against good food then?
+The above is an example of:",8,fallacy of extension
+"surgeons have X-rays to guide them during an operation, lawyers have briefs to guide them during a trial, carpenters have blueprints to guide them when they are building a house. Why, then, shouldn't students be allowed to look at their textbooks during an examination?",11,deductive fallacy
+"Brandon: We should have tastier lunches!
+Jaylen: Don't listen to him! He's a terrible person! I saw him trip another student and steal his lunch money!",6,ad hominem
+"occurs when your opponent over-simplifies or misrepresents your argument (i.e., setting up a straw man) to make it easier to attack or refute",8,fallacy of extension
+Why did the blonde cross the road?  Because she saw a shoe sale!,0,faulty generalization
+"Accused on the 6 o'clock news of corruption and taking bribes, the senator said that we should all be very wary of the things we hear in the media, because we all know how very unreliable the media can be.",6,ad hominem
+"If there is no freewill, then we are not ultimately in control of our actions. If this is true, our entire system of justice would be seriously flawed. This would be very bad; therefore, freewill must exist.",7,appeal to emotion
+"In our psychology department, half of the faculty believe that a behavioral approach is the only valid approach; the other half believe that the only valid approach is psychodynamic. Obviously the most valid approach must be one that incorporates both behavioral and psychodynamic elements.",5,fallacy of relevance
+This fallacy is a distraction from the argument typically with some sentiment that seems to be relevant but isn't really on-topic.,5,fallacy of relevance
+When you have too little or unrepresentative data to make claim.,0,faulty generalization
+Distracting your audience from the original issue by introducing an irrelevant topic.,5,fallacy of relevance
+"To get better schools, we have to raise taxes. If we don't, we can't have better schools.",4,false dilemma
+"If you don't say the pledge of allegiance, then you must be a traitor.",4,false dilemma
+"I'm not surprised, frankly, that someone who gets lost in his own neighborhood would argue that New York has better pizza than Chicago.",6,ad hominem
+"You smoke pot? If you keep doing that, you'll be a heroin addict within two years.",0,faulty generalization
+A Congressman calls a Whitehouse Spokesperson a giant idiot,6,ad hominem
+"Because you found something difficult to understand, or are unaware of how it works, you made out like it is probably not true.",10,intentional fallacy
+"All cats are felines.
+All dogs are canines.
+Therefore, all cats are canines.",11,deductive fallacy
+Valencia bought a different brand of detergent at the store. She developed a rash after wearing clothes washed in the new detergent. She concluded that she was allergic to the new soap. What type of reasoning is this?,1,false causality
+"Good people don't lie. You told a lie. Therefore, you are not a good person.",11,deductive fallacy
+SM 1: Second World War discussion,8,fallacy of extension
+"If Joe robbed a bank then he has a million dollars. Joe has a million dollars, so Joe robbed a bank.",11,deductive fallacy
+"If you believe that I am wrong, prove to me that I am.",10,intentional fallacy
+"In government, arguing for raising taxes - We need more revenue to support the programs that we have. Children are our future. Let's support children.",5,fallacy of relevance
+"Matt is running for class president. In his campaign speech he says, My opponent does not deserve to win. She is a smoker and she cheated on her boyfriend last year.
+What fallacy has Matt committed?",6,ad hominem
+"I don't care what scientists say, my mother always told me that the world is flat, and she would never lie to me!",9,fallacy of credibility
+"You're a vegetarian? You do realize that Hitler was a vegetarian, too?",6,ad hominem
+"Hannah argues that because her friend was brainwashed as a child into thinking that people are generally good, people are not generally good.
+Name that fallacy:",6,ad hominem
+"Earl: Men don't cry
+Jaquon: I cry all the time; it's healthy
+Earl: Well, REAL men don't cry.
+Jaquon: Earl, you should invest in some therapy.
+Earl: Los hombres no lloran
+Jaquon: lloro todo el tiempo; Es saludable
+Earl: Bueno, los hombres REALES no lloran.
+Jaquon: Earl, deberías invertir en terapia.",10,intentional fallacy
+"It's getting late, and we still have to decide on the school budget. What do you say we just leave it as is and we can call it a night?",0,faulty generalization
+The party was going great! Then Gerald showed up and little by little people started collecting their coats and heading home. Gerald ruined the party.,1,false causality
+Every severe recession follows a Republican Presidency; therefore Republicans are the cause of recessions.,1,false causality
+"I can't trust that doctor's advice on how to raise my child. He has never been a mother.
+This is an example of",6,ad hominem
+“The economy has improved greatly because of the new president.”,1,false causality
+"If taxes are lowered, I will have more money to spend.
+I have more money to spend.
+Therefore, taxes must have been lowered.",11,deductive fallacy
+"Everyone is doing it, you should be too! is an example of which fallacy?",3,ad populum
+"The time that children are vaccinated and the time they're diagnosed do closely correlate, however, leading upset parents to assign blame to the immunizations, for lack of a better explanation.",1,false causality
+"Four out of five dentists recommend Happy Glossy Smiley toothpaste brand. Therefore, it must be great.",0,faulty generalization
+"Andrea Starkk has written several books arguing that the media harms women when it comes to body image. But Starkk is an ugly, bitter person, so you shouldn't listen to her.",6,ad hominem
+Studies show that it takes up to seven years for the human body to digest a piece of gum.,9,fallacy of credibility
+Did the pollution you caused increase or decrease your profits?,10,intentional fallacy
+"We haven't found King David's tomb, so King David didn't really exist.",10,intentional fallacy
+Layla is a liar! She should not be trusted to be president for student council!,6,ad hominem
+A mother says that she does not trust her pediatrician because he has never been a mother.,6,ad hominem
+"Scientist: Evolution explains how animals developed, adapted and diversified over millions of years.
+Opponent: If we evolved from monkeys, why are there still monkeys? And why don't we have three arms? Wouldn't that give me a competitive advantage?
+What kind of a logical fallacy is this?",8,fallacy of extension
+"Anthony and Marie have a heated argument. During their fight, Anthony tells Marie that he hates her and wished that she would get hit by a bus. Later that evening, Anthony receives a call from a friend who tells him that Marie is in the hospital because she was struck by a bus. Anthony immediately blames himself and reasons that if he hadn't made that comment during their fight, Marie would not have been hit. What logical fallacy has Anthony committed?
+http://www.funtrivia.com",1,false causality
+"A student gets into trouble for not meeting the dress code at her school. When her teacher confronts her, she begins talking about how the dress code is a punishment for girls and boys are able to wear whatever they want.",5,fallacy of relevance
+The speaker or writer appeals to the audience's trust by establishing his credibility or trustworthiness as a writer or speaker?,9,fallacy of credibility
+"The more things change, the more they remain the same.",0,faulty generalization
+The model is in close agreement with the data.,10,intentional fallacy
+company's slogan Eat Fresh.,7,appeal to emotion
+"All Jim Carrey movies are hilarious.
+No horror movies are Jim Carrey movies.
+Therefore, no horror movies are hilarious.",11,deductive fallacy
+"“If you really loved me, you would buy me everything I ever wanted!”",4,false dilemma
+"After Jhon said that we should put more money into health and education, Warren responded by saying that he was surprised that Jhon hates our country so much that he wants to leave it defenseless by cutting military spending.",8,fallacy of extension
+use of people's desire to be part of the group to convince them,3,ad populum
+"Misrepresents the context from which a quotation is taken; putting words or ideas in people's mouth/head; creating a “dummy” or fake or falsified argument or situation so you can attack it .
+This is what fallacy?",8,fallacy of extension
+"Mark: Do you believe in virgin births?
+Sue: You mean that babies are born virgins?
+Mark: I mean birth without fertilization.
+Sue: No.
+Mark: How could you not believe in virgin births? Roughly two billion people believe in them, don't you think you should reconsider your position?",3,ad populum
+"Sure, we haven't given raises to our employees in more than ten years. However, we do pride ourselves on providing customer service in over seven different languages.",5,fallacy of relevance
+A is true because A is true.,2,circular reasoning
+I believe that PNoy is the Abraham Lincoln of the Philippines.,11,deductive fallacy
+People who eat yogurt have healthy guts. If I eat yogurt I will never get sick.,1,false causality
+This dress code is so bad I feel like I'm in prison.,5,fallacy of relevance
+"Green Peace's strategies aren't effective because they are all dirty, lazy hippies.",6,ad hominem
+"Power lines cause cancer.  I met a little boy with cancer who lived just 20 miles from a power line who looked into my eyes and said, in his weak voice, “Please do whatever you can so that other kids won't have to go through what I am going through.”",7,appeal to emotion
+We are not weak if we make a proper use of those means which the God of nature hath placed in our power.,9,fallacy of credibility
+America: Love it or leave it,4,false dilemma
+Students only want cell phones so they can text their friends in class; it's about time students focused more on their studies and less on their social lives.,8,fallacy of extension
+"Everyone loves Rebecca, because she is so popular.",0,faulty generalization
+"Don't let your children stay up till midnight on New Year's Eve. Before you know it, they'll be demanding to stay up till midnight every night.",0,faulty generalization
+"Then we had a death. A 32-year-old woman hemorrhaged to death as a result of a cervical laceration. I finally realized, we weren't helping women - we were destroying them.",7,appeal to emotion
+"My grandfather was a typical Irishman - friendly, outgoing, and drunk half the time.",0,faulty generalization
+Millions of people drink Diet Coke every year so it must be the best soft drink in the world.,3,ad populum
+You don't have to do this. My grandmother is in the hospital. I need my salary to support her medication. She's dying.,7,appeal to emotion
+"My mother always told me that if I went outside right after bathing, during winter, I would catch pneumonia.",0,faulty generalization
+Everyone is/is not doing it! It must/must not be a good thing!,3,ad populum
+"A teacher tells Billy to stop talking, and he yells back: “Sarah was talking too!”",5,fallacy of relevance
+Everyone does it.  You should too.,3,ad populum
+"When sales of hot chocolate go up, street crime drops.",1,false causality
+"Verizon advertising the newest Samsung Galaxy phone, claiming that everyone else who has bought it loves the new product.",3,ad populum
+"My opponent raised a good point, but can we trust him? I mean he just moved to town only 5 months ago, how much could he really know?",6,ad hominem
+Every girl I've dated has been a nurse. I must only be compatible with nurses!,1,false causality
+"My dog got sprayed by a skunk this morning on the trail; therefore, trail running is dangerous.",0,faulty generalization
+We think that Malltime will be a success because all little girls like shopping.,0,faulty generalization
+"“But, Dad, I know you had no curfew when you were my age, so how can you give me a curfew?”",6,ad hominem
+Distracting and dangerous mobile devices should be banned from use in vehicles.,2,circular reasoning
+"Allowing overnight guests in the dorm rooms will lead to nothing but trouble: promiscuity, teen pregnancy, and eventually, a bunch of unwed mothers on campus, trying to complete their degrees while raising a child.",0,faulty generalization
+"“Caldwell Hall is in bad shape. Either we tear it down and put up a new building, or we continue to risk students' safety. Obviously we shouldn't risk anyone's safety, so we must tear the building down.”",4,false dilemma
+"You can buy the new Sensitivity perfume, or you can smell bad all day.",4,false dilemma
+Has your clinic stopped those unethical practices yet?,10,intentional fallacy
+The word of Zorbo the Great is flawless and perfect. We know this because it says so in The Great and Infallible Book of Zorbo's Best and Most Truest Things that are Definitely True and Should Not Ever Be Questioned.,2,circular reasoning
+She's wearing red shoes. Her favorite color must be red.,11,deductive fallacy
+"I am not unmindful that some of you have come here out of great trials and tribulations. Some of you have come fresh from narrow jail cells. And some of you have come from areas where your quest -- quest for freedom left you battered by the storms of persecution and staggered by the winds of police brutality. You have been the veterans of creative suffering. Continue to work with the faith that unearned suffering is redemptive. Go back to Mississippi, go back to Alabama, go back to South Carolina, go back to Georgia, go back to Louisiana, go back to the slums and ghettos of our northern cities, knowing that somehow this situation can and will be changed.  Which appeal is the primary appeal used in this quote?",7,appeal to emotion
+I've never had the flu because I take my vitamins everyday.,1,false causality
+"Employees are like nails. Just as nails must be hit in the head in order to make them work, so must employees.",11,deductive fallacy
+"Luke didn't want to eat his sheep's brains with chopped liver and brussel sprouts, but his father told him to think about the poor, starving children in a third world country who weren't fortunate enough to have any food at all.",7,appeal to emotion
+40 million people can't be wrong! Buy the new iPhone XIV today!,3,ad populum
+aliens must have visited Earth,11,deductive fallacy
+"Stephen Hawking in the smartest scientist on the planet, so if he says global warming is real, it must be true!",9,fallacy of credibility
+“The purpose of the Cadet Program is to prepare youth for Air Force Basic Military Training.” REPLY: “This is true because I heard it from the Wing Commander.”,9,fallacy of credibility
+"All this time that you're telling me to improve, you're being lazy yourself.",6,ad hominem
+"Everyone I know is making fruit smoothies for quick, portable meals, so smoothies must be really good for you.",3,ad populum
+"Charlie: Illegal posting and sharing of songs online is crippling the music industry.
+
+Bob: You couldn't be more wrong; the music industry is doing just fine. I can't believe you think the government should be allowed to regulate what I share with my “friends.” No one wants a world where I can't loan a book to my girlfriend, let my roommate borrow my iPod, or share a funny meme with my blog followers.",8,fallacy of extension
+"“I know the exam is graded based on performance, but you should give me an A. My cat has been sick, my car broke down, and I've had a cold, so it was really hard for me to study!” Demanded Aun.",7,appeal to emotion
+"Murder is morally wrong. Therefore, abortion is morally wrong.",2,circular reasoning
+"Ted: Biological evolution is both a theory and a fact.
+
+Edwin: That is ridiculous!  How can you possibly be absolutely certain that we evolved from pond scum!
+
+Ted: Actually, that is a gross misrepresentation of my assertion.  I never claimed we evolved from pond scum.  Unlike math and logic, science is based on empirical evidence and, therefore, a scientific fact is something that is confirmed to such a degree that it would be perverse to withhold provisional consent.  The empirical evidence for the fact that biological evolution does occur falls into this category.",8,fallacy of extension
+"Parent: I really don't want you to smoke pot. It's still illegal, and could get you into trouble.
+Child: Didn't you smoke pot when you were my age? You must not think it's a big deal.",6,ad hominem
+"Teacher: Why don't you have your homework today?
+
+Student: Well, I did my homework. I was actually really interested in all that info about the quadratic formula. Would you like to hear the song that I wrote to memorize it?",5,fallacy of relevance
+"Cathy is opposed to social media because she would rather have a face-to-face conversation. However, more and more of Cathy's friends have joined social media sites, so Cathy feels like she needs to create an account as well.",3,ad populum
+"The economy continues to grow as the number of likes on my Instagram account continue to increase. Clearly, the two are linked.",1,false causality
+“The Senator thinks we can solve all our ecological problems by driving a Prius.”,8,fallacy of extension
+"So many people are speaking up about animal rights, but what they should first focus on is human rights.",5,fallacy of relevance
+"harmful atheists favor cloning, so cloning is wrong",6,ad hominem
+You have to invite Jenna to your party because it would not be nice not to invite Jenna.,2,circular reasoning
+Americans should give money to charity because it is the right thing to do.,2,circular reasoning
+"When a statement falsely claims or assumes an either / or situation, when in fact there is at least one additional logically valid option, it is called...",4,false dilemma
+This theory originally occurred to a scientist in the form of a dream; therefore it cannot be valid.,6,ad hominem
+"Look, you are going to have to make up your mind. Either, you decide that you can afford this stereo, or your decide that you are going to have to go without music for a while.",4,false dilemma
+"The majority of students are in favor of changing the colors of the graduation gowns to a single color to not exclude those that are non-binary, but a few people complained it wasn't tradition , so let's meet in the middle and just allow students to not attend graduation if they don't want to wear the traditional black and gold.",5,fallacy of relevance
+"The Soviet Union collapsed after taking up atheism. Therefore, we must avoid atheism for the same reasons.",1,false causality
+Everyone wants the iPhone 11 because it's the best phone on the market!,3,ad populum
+"“Grading this exam on a curve would be the most fair thing to do. After all, classes go more smoothly when the students and the professor are getting along well.”",5,fallacy of relevance
+"Only a selfish, non-caring person would believe that this is ok.",6,ad hominem
+"This new test seemed so promising, but the 3 studies that supported its validity turned out to have critical methodological flaws, so the test is probably not valid.",0,faulty generalization
+Have you stopped cheating on exams?,10,intentional fallacy
+Look at that face! Could anyone trust that to run the country?,6,ad hominem
+God exists because the Bible says so. The Bible is a reliable source because it is the  word of God.,2,circular reasoning
+"I believe one should never deliberately hurt another person, that's why I can never be a surgeon.",0,faulty generalization
+"Student: Hey, Professor Moore, we shouldn't have to read this book by Freud. Everyone knows he used cocaine.",6,ad hominem
+Words with strong feelings that bring about feelings in the reader. Strong words (+ or -) specifically used to sway the reader,7,appeal to emotion
+"U.S. Sen. Tom Coburn says that lesbianism is rampant in the Oklahoma schools. This must, indeed, be true, because surely the senator couldn't be mistaken about the schools in his own state.",9,fallacy of credibility
+French people are great at kissing. Julie is French. Get me a date!,0,faulty generalization
+"Mom, I know you're upset that I went over my cell limit this month. The important issue here, though, is that I got an A on my algebra exam.",5,fallacy of relevance
+Chick fil A is the greatest food chain in existence. Look at the crowds!,3,ad populum
+"I see no reason to listen to Smith. Anything he says will be influenced by his interest in civil rights. His statements are bound to be distorted and unreliable.
+
+What logical fallacy is used in the statement above?",6,ad hominem
+"The claim that because somebody famous supports an idea, the idea must be right. This fallacy is often used in advertising.",9,fallacy of credibility
+"Recognising that Amanda had committed a fallacy in arguing that we should eat healthy food because a nutritionist said it was popular, Alyse said we should therefore eat bacon double cheeseburgers every day.",11,deductive fallacy
+"If you don't buy the black pencils, you will get made fun of. You will not be chosen for group projects.",7,appeal to emotion
+"The research and reasoning that supposedly supports (or that supposedly discredits) this intervention are a joke. The researchers are people who are not methodologically sophisticated and there have been rumors--I have no idea whether they're true or not--that they faked some of the data. The advocates (or opponents) of this intervention are the worst kind of sloppy thinkers. They are fanatical adherents who already have their minds made up; they've become true believers in their cause. They make arguments only a stupid person would accept, and mistakes in reasoning that would make an undergrad psych major blush. These are not the kind of people who deserve to be taken seriously.",6,ad hominem
+"If you don't agree to sign the labor agreement, we'll fire you.",7,appeal to emotion
+You can go to bed in 5 minutes or you can go to bed in ten minutes. What's your choice?,4,false dilemma
+You're complaining because you have to walk to school? I used to have to give my parents my entire paycheck.,5,fallacy of relevance
+The statement you are not really an American if you are vegetarian is an example of which fallacy?,10,intentional fallacy
+"I started exercising twice a week, and I just got a babysitting job. Exercising leads to new jobs!",1,false causality
+It is an example of,4,false dilemma
+"Yes, I do think that all drunk drivers should go to prison, but your honor, he is my son! He is a good boy who just made a mistake!",10,intentional fallacy
+", motive, or other attribute of the person making the argument.",6,ad hominem
+"Don't ever steal! Once you start, you won't be able to stop, and you'll end up bankrupt.",0,faulty generalization
+"Senator Jill: We'll have to cut education funding this year.
+Senator Bill: Why?
+Senator Jill: Well, either we cut the social programs or we live with a huge deficit and we can't live with the deficit.",4,false dilemma
+"In this election, we've seen the highest voter turnout ever recorded. If you have any doubts about Tyler Espinoza's qualifications, just look at how many people have come out to vote for him.",3,ad populum
+Everybody does it.  You should too.,3,ad populum
+Over one million students have purchased Brain Power.,3,ad populum
+I would never buy a Buick. My father owned two of them and both of them had frequent transmission problems. Buicks obviously break down all the time.,0,faulty generalization
+What is wrong with Tanya? She only has five hundred dollars saved and she's going away to college next year. That would be like letting my four-year-old brother go to Russia by hisself.,11,deductive fallacy
+Warning!  Smoking may cause frostbite?,5,fallacy of relevance
+"More and more people are buying sports utility vehicles. It is time you bought one, too!",3,ad populum
+"Ghosts exist.... because I saw a ghost in my closet, is an example of what logical fallacy?",2,circular reasoning
+“The two courses I took at Harvard were not very interesting. I don't think it is a good university.”,0,faulty generalization
+The Philippines is in poverty because of poor people.,2,circular reasoning
+Presenting an unqualified person or institution as a source of credible information.,9,fallacy of credibility
+"If you drive without car insurance, then you're an accident waiting to happen.
+Stay protected with Auto Union insurance.",4,false dilemma
+We can't freeze the academic year because then students won't graduate on time. Next thing you know most people will be unemployed and will resort to crime. The crime rate will skyrocket and society will collapse.,0,faulty generalization
+"Siblings Dan and Joe had a serious argument, and Dan told Joe that he hated him and wished that he would get hit by a car. Two days later, Dan was told that Joe had been struck by a car. Dan blamed himself and thought that if he hadn't made the comment during their fight, Joe would not have been hit.",1,false causality
+Flight attendants are the nicest people. I should know—I've taken two flights.,0,faulty generalization
+"“Eating five candy bars and drinking two sodas before a test helps me get better grades. I did that and got an A on my last test in history.”
+What fallacy is this an example of?",1,false causality
+"My minister says the Covid vaccine will cause genetic mutations. He has a college degree, and is a holy man, so he must be right.",9,fallacy of credibility
+"Prof. Jones: The university just cut our yearly budget by $10,000. Prof. Smith: What are we going to do? Prof. Brown: I think we should eliminate one of the teaching assistant positions. That would take care of it. Prof. Jones: We could reduce our scheduled raises instead. Prof. Brown:  I can't understand why you want to bleed us dry like that, Jones.",8,fallacy of extension
+"An environmental group illegally blocked loggers and workers at a nuclear plant. Therefore, environmentalists are radicals who take the law into their own hands.",0,faulty generalization
+"In March, 5G was introduced and then we all got COVID is an example of",1,false causality
+"I deserve to have a later curfew, so you should let me stay out until 10pm!",2,circular reasoning
+"If we let your brother stay, we'll have to let your whole family stay.",0,faulty generalization
+"Quinoa is a delicious, plant-based source of protein because it tastes so darn good.",2,circular reasoning
+"Trisha: In an interview, your candidate admitted that he was a thief!
+Derek: He actually said that when he was three years old, he stole a lollipop from a store, and felt so guilty, that he never stole anything again.",10,intentional fallacy
+An influencer posts on Instagram that the restaurant EP is poppin'! Everyone worth knowing is here tonight - come on down! -- this is an example of:,3,ad populum
+"Consider the following exchange:
+Omar: I think capital punishment is a necessary component of our justice system and should remain legal.
+Kayla: So you are saying that murder should be legal and it is okay for us to go around killing people just because we think they deserve it? That isn't right.
+Of what fallacy is Kayla guilty?",8,fallacy of extension
+"If we teach anton how to drive the car, he'll want to learn how to fly helicopters next!",0,faulty generalization
+"Water fluoridation affects the brain. Citywide, student's test scores began to drop five months after fluoridation began. The water fluoridation must have caused the student's test scores to drop.",1,false causality
+What's the point of living?  We're all going to die anyway.,10,intentional fallacy
+"If the argument is supposed to be about whether or not we, as the American public should wear masks, and you argue: Asking an infant to wear a mask is ridiculous!",8,fallacy of extension
+What persuasive technique is being used in this photo?,3,ad populum
+"I know you don't like the kitty-cat  sweater that Grandma knitted for you, but she worked so hard on it and it will make her happy to see you wear it in the family holiday photo.",7,appeal to emotion
+"The goal of people who ask us to wear masks to pure compliance, to practice controlling a witless population. We are not sheep!",8,fallacy of extension
+All people who live in England have bad teeth.,0,faulty generalization
+"You should marry me. I know we're not compatible, but I only have a year to live, and you're my last chance.",7,appeal to emotion
+"Person A: What's the weather like?
+Person B: It's 2:00",11,deductive fallacy
+"Global chocolate consumption is highest in Switzerland, yet people there are among the trimmest in the industrialized world. Therefore, it's reasonable to conclude that chocolate helps keep your weight down.",1,false causality
+"Evolution cannot be true. If it were true, we'd all be smelly apes.",7,appeal to emotion
+Don't listen to her advice about math. She doesn't even know how to tie her own shoes!,6,ad hominem
+"You let my sister pierce her ears when she was 11, so you should let me stay up until midnight.",11,deductive fallacy
+All chess players are geniuses.,0,faulty generalization
+"If I don't take this AP class, then I won't do well on the exam.  If I don't do well on the AP exam, then I can't get into a good college.  If I can't get into a good college, then I'll never get a good job.  If I can't get a good job, then I'm going to have to live in my parents' basement forever.  Guess I'll sign up for the AP class.",0,faulty generalization
+"If we put limits on the right to bear arms, soon all of our Constitutionally-given  rights will be taken away.",0,faulty generalization
+"If Hunter was human, he would be mortal. Hunter is mortal. Therefore, Hunter is a human.",11,deductive fallacy
+It is either you are for the US war on terror or against it.,4,false dilemma
+"America keeps telling China to be more respecting of journalism, but why don't they stop the American propaganda first?",6,ad hominem
+"Bill: I believe that Obamacare is wrong. Dave: Of course you would say that, you're a Republican. Bill: What about the arguments I gave to support my position? Dave: Those don't count. Like I said, you're a Republican, so you have to support the party line. Further, you are just a lapdog to the Republican incumbent so you can get a job , so I can't believe what you say.",6,ad hominem
+Terrorists must not be given the chance to invade our beloved country.,3,ad populum
+Don't you want the best for your baby?,7,appeal to emotion
+"I view any discussion concerning the limiting of therapy as morally wrong, that is why I do not accept it.",2,circular reasoning
+"Person 1:
+I am for raising the minimum wage in our state.
+Person 2:
+She is for raising the minimum wage, but she is not smart enough to even run a business.",6,ad hominem
+"There you are cheating on your husband, how could you ever tell us anything meaningful about ethics?",6,ad hominem
+"1. All the schools in the area had to kept closed for most part of the week.
+2. Many parents have withdrawn their children from the local schools.",1,false causality
+"Every time that rooster crows, the sun comes up. That rooster must be very powerful and important!",1,false causality
+"If I don't take this Advanced Placement (A.P.) class, then I won't do well on the exam. If I don't do well on the A.P. exam, then I can't get into a good college. If I can't get into a good college, then I'll never get a good job. If I can't get a good job, then I'm going to have to live in my parents' basement forever. Guess I'll sign up for the A.P. class",0,faulty generalization
+Reduce complicated issues to only two possible courses of action.,4,false dilemma
+"Alley ate a slice of pizza for dinner and a few hours later she had a fever. Therefore, pizza causes fevers.",1,false causality
+There's no point listening to you. Everybody knows you're just a little do-gooder.,6,ad hominem
+This is an example of what logic fallacy?,7,appeal to emotion
+"If you allow the students to redo this test, they are going to want to redo every assignment for the rest of the year.",0,faulty generalization
+"If the ozone layer is destroyed, many people will get cancer and suffer from other illnesses.  The ozone layer is being protected, not destroyed.  So, many people will be spared the pain of cancer and other illnesses.",11,deductive fallacy
+"Mother: It's bedtime Jane
+
+Jane: Mom, how do ants feed their babies?
+
+Mother: Don't know dear, close your eyes now.
+
+Jane: But mama, do ant babies cry when they're hungry?",5,fallacy of relevance
+This fallacy isn't proof of anything except that you don't know something.,10,intentional fallacy
+"If you don't buy the warranty for your chromebook, you could find yourself without one for the rest of the schoolyear and having to pay thousands of dollars in expensive repairs IS an example of this fallacy.",7,appeal to emotion
+"Everyone seems to support the changes in the vacation policy, and if everyone likes them, they must be
+good.",3,ad populum
+"Justin Beiber wears Ray Bans, so you should buy a pair to wear in the sun.",3,ad populum
+"Since Lucy Sutton became vice president of the parent-teacher association, student performance has declined and teacher morale is down. We on the school board believe that Sutton bears sole responsibility for the downtrend.",1,false causality
+"Dr. X is an engineer, and he doesn't believe in global warming.",9,fallacy of credibility
+"No donkeys are fish.
+Some asses are donkeys.
+Therefore, some asses are fish.",11,deductive fallacy
+"Says Robot 2, attacking Robot 1 instead of his arguments.",6,ad hominem
+Deliberately using a fake issue or argument against someone because it's easier to prove wrong than the real issue would be,8,fallacy of extension
+"Violent video games cause teens to be violent, because violent teens play violent video games.",2,circular reasoning
+He wouldn't make a good president because he looks like a sad muppet.,6,ad hominem
+The newest brand jeans that everyone is wearing are called Blue Dogs. Blue Dogs are being worn by all young teens. Be sure to go out and buy your new jeans at your local mall.,3,ad populum
+"Jeannette has an upcoming exam in anatomy and physiology. It will cover the four chapters read and discussed over the last month. Jeannette hasn't studied. Though there are well over 200 terms she will be expected to remember, Jeannette knows that her memory is great. She will remember the terms just from having heard them mentioned in class. After all, because of her excellent memory, she got through high school without studying. Despite her faith in her memory, her lack of studying results in an F on the exam.",7,appeal to emotion
+“A bank with the heart for every Filipino” - Veterans Bank,7,appeal to emotion
+"When your mom gets your phone bill and you have gone over the limit, you begin talking to her about how hard your math class is and how well you did on a test today.",5,fallacy of relevance
+a persuasive technique used in media messages that appeals to the everyone is doing it mentality,3,ad populum
+If you don't have a recycling bin you hate the earth and don't care about pollution.,8,fallacy of extension
+"My roommate said her Debate class was hard, and the one that I'm in right now is hard, too. All Debate classes must be hard!”",0,faulty generalization
+"It was a rainy day in Harvard Square, so the foot traffic through the atrium from Mass Ave to Mount Auburn Street was heavier than it might have been if the sun were out. A lot of people were carrying umbrellas, which most of them furled inside. I had always thought that Cambridge, in the vicinity of Harvard, might have had the most umbrellas per capita of any place in the world. People used them when it snowed. In my childhood, in Laramie, Wyoming, we used to think people who carried umbrellas were sissies.",0,faulty generalization
+"Our colleague, Doctor Χ, is too young and inexperienced; we could do without his advice.",6,ad hominem
+"Since Anna Camacho became vice president of the parent-teacher association, student performance has declined and teacher morale is down. We on the school board believe that Camacho bears sole responsibility for the downtrend.",1,false causality
+Word processed papers are clearer and more error-free than typed papers  because they make use of new technology.,9,fallacy of credibility
+"Matthew: Everyone believes that teachers get paid enough for the job they do. Therefore, it must be true.",3,ad populum
