@@ -1,0 +1,44 @@
+Example argument: The lady in the pink dress is Julia Roberts.
+The reporter thinks Julia Roberts drives a Prius.
+Therefore, the reporter thinks the lady in the pink dress drives a Prius.
+Correct reasoning and fallacy: This is a deductive fallacy because it incorrectly assumes that the reporter’s belief about Julia Roberts transfers to the lady in the pink dress without confirming that the reporter knows the woman is Julia Roberts.
+Fallacy type: deductive fallacy
+
+Example argument: I guess I should buy my 12-year-old daughter an iPhone. Everyone at her new school has one, and I want her to fit in with the other kids.
+Correct reasoning and fallacy: This is an ad populum fallacy, appealing to popularity by suggesting the daughter should get an iPhone simply because everyone else has one.
+Fallacy type: ad populum
+
+Example argument: Some people believe in extraterrestrials. But crop circles look really artistic.
+Correct reasoning and fallacy: This is a fallacy of relevance; the artistic appearance of crop circles is unrelated to the truth of extraterrestrial existence.
+Fallacy type: fallacy of relevance
+
+Example argument: First senator: The nation is in debt and we should not add to the defense budget.
+Second senator: I cannot believe you want to leave the nation defenseless!
+Correct reasoning and fallacy: This is a fallacy of extension, where one senator misrepresents the other's position against increased spending as wanting no defense at all.
+Fallacy type: fallacy of extension
+
+Example argument: You support capital punishment just because you want an “eye for an eye,” but I have several good reasons to believe that capital punishment is fundamentally wrong.
+Correct reasoning and fallacy: This is a fallacy of extension because it oversimplifies the opposing view as mere retribution, ignoring potentially valid arguments for capital punishment.
+Fallacy type: fallacy of extension
+
+Example argument: You can't believe that the soccer game ended in a draw, can you? Think about the efforts that the players put in, they were incredibly passionate and played with all their hearts out.
+Correct reasoning and fallacy: This is an appeal to emotion; it suggests disbelief in the game's outcome based on the players' passion rather than the actual rules or score.
+Fallacy type: appeal to emotion
+
+Example argument: Let's go buy the iPhone X in spite of the $999 price tag--all of our friends have one already!
+Correct reasoning and fallacy: This is an ad populum fallacy that argues in favor of buying an iPhone based on the popularity among peers rather than the merits of the product.
+Fallacy type: ad populum
+
+Example argument: Person A: I spent the day at the beach. Person B: So you're saying you have time to spend all day doing nothing, lazing around on the beach?
+Correct reasoning and fallacy: This is a fallacy of extension; Person B distorts Person A’s simple statement into an exaggerated accusation of laziness.
+Fallacy type: fallacy of extension
+
+Example argument: Pastor Pete: People are turning to God everywhere!  9 out of 10 people I interviewed said that they had a personal relationship with Jesus Christ.
+Fred: Where did you find these people you interviewed?
+Pastor Pete: In my church.
+Correct reasoning and fallacy: This is a faulty generalization because it draws a broad conclusion about society based on responses from a biased sample taken at a church.
+Fallacy type: faulty generalization
+
+Example argument: Students are listening to classical music. Only a hard-hearted person would argue against the profound power of classical music in molding young minds.
+Correct reasoning and fallacy: This is an appeal to emotion by implying that disagreeing with the statement makes someone cold-hearted, rather than addressing the argument rationally.
+Fallacy type: appeal to emotion
