@@ -1,46 +1,30 @@
-Example argument: I guess I should buy my 12-year-old daughter an iPhone. Everyone at her new school has one, and I want her to fit in with the other kids.
-Correct reasoning and fallacy: This is an ad populum fallacy, relying on the popularity of iPhones among schoolchildren as justification for buying one, rather than on merit or need.
-Fallacy type: ad populum
+Example argument: If my family could not save sufficient funds, a trip to Europe would not be feasible. As yet, Everyone in my family has never been to Europe, thus implying that none have saved an adequate amount of money.
+Correct reasoning and fallacy: This is a deductive fallacy; it assumes that because no one in the family has been to Europe, none have saved money, which doesn’t logically follow.
 
-Example argument: The lady in the pink dress is Julia Roberts.
-The reporter thinks Julia Roberts drives a Prius.
-Therefore, the reporter thinks the lady in the pink dress drives a Prius.
-Correct reasoning and fallacy: This is a deductive fallacy because it assumes that the reporter's belief about Julia Roberts driving a Prius extends to the woman in the pink dress without confirming the identity link.
-Fallacy type: deductive fallacy
+Example argument: I have a right to free speech so I can say what I want and you shouldn't try to stop me.
+Correct reasoning and fallacy: This is circular reasoning; it uses the right to free speech to justify saying anything without considering limits, restating the premise as the conclusion.
 
-Example argument: Customer: The cake has a cherry on top. Baker: So you're saying that it's filled with cherries? That's just absurd.
-Correct reasoning and fallacy: This is a fallacy of extension; the baker exaggerates the customer's comment about a cherry on top into a claim that the entire cake must be filled with cherries.
-Fallacy type: fallacy of extension
+Example argument: Do you support freedom and the right to bear arms ?
+Correct reasoning and fallacy: This is an intentional fallacy; the question is emotionally loaded, equating gun rights with freedom in general to shut down dissent.
+
+Example argument: If you don't believe in God, you'll go to hell! is an example of:
+Correct reasoning and fallacy: This is an appeal to emotion; it uses fear (of going to hell) to force belief in God rather than providing logical justification.
+
+Example argument: Every Olympic athlete trains daily. But remember, sports bring people together.
+Correct reasoning and fallacy: This is a fallacy of relevance; the emotional idea that 'sports bring people together' doesn’t logically connect to Olympic athletes training.
+
+Example argument: Lisa was brainwashed as a child into thinking that people are generally good.  Therefore, people are not generally good.
+Correct reasoning and fallacy: This is an ad hominem fallacy; it attacks the source of the belief (Lisa’s upbringing) instead of evaluating the belief itself.
+
+Example argument: My political candidate gives 10% of his income to the needy, goes to church every Sunday, and volunteers one day a week at a homeless shelter. Therefore, he is honest and morally straight.
+Explanation: What information was left out of the example is that this same candidate gives 10% of his income to needy prostitutes in exchange for services, goes to the bar every Sunday after church (and sometimes before), and only works at the homeless shelter to get clients for his drug dealing business.
+Correct reasoning and fallacy: This is an intentional fallacy; it omits crucial discrediting information while presenting selective facts to falsely build a moral image.
+
+Example argument: No reptiles produce milk because reptiles are animals that don't make milk.
+Correct reasoning and fallacy: This is circular reasoning; it defines reptiles as animals that don’t produce milk and then concludes they don’t produce milk based on that definition.
+
+Example argument: Lahat nakamove-on na ikaw na lang hindi pa. #MarcosIsAHero
+Correct reasoning and fallacy: This is an ad populum fallacy; it suggests someone should 'move on' simply because everyone else supposedly has, relying on popularity rather than reasoning.
 
 Example argument: Person A: I spent the day at the beach. Person B: So you're saying you have time to spend all day doing nothing, lazing around on the beach?
-Correct reasoning and fallacy: This is a fallacy of extension where Person B unfairly twists Person A’s neutral statement into a judgment about laziness.
-Fallacy type: fallacy of extension
-
-Example argument: Not all electric cars are eco-friendly. Even Tesla has critics.
-Correct reasoning and fallacy: This is a fallacy of credibility; it suggests that because Tesla has critics, electric cars as a whole are not eco-friendly, which unfairly dismisses the broader argument based on selective authority.
-Fallacy type: fallacy of credibility
-
-Example argument: I read a joke but no one can prove it is funny. So the joke is not funny.
-Correct reasoning and fallacy: This is an intentional fallacy, treating the joke's humor as something that must be objectively proven rather than being understood in context or subjectively.
-Fallacy type: intentional fallacy
-
-Example argument: Person #1: We need to start high school later in the morning.
-Person #2: Oh, so you think we should all just sleep in until noon and have school until it gets dark?
-Correct reasoning and fallacy: This is a fallacy of extension, where the second person distorts a reasonable suggestion about later school start times into an exaggerated and impractical proposal.
-Fallacy type: fallacy of extension
-
-Example argument: Morris: Oh youthful spirit, you have so much to learn.  I know for a fact that there are multiple dimensions that beings occupy.
-Clifton: How can you possibly *know* that for a fact?
-Morris: (raises one eyebrow, stares deeply into the eyes of Clifton and says nothing)
-Clifton: Wow. You convinced me!
-Correct reasoning and fallacy: This is a fallacy of relevance; the response relies on mysticism and theatrics rather than evidence, failing to logically support the claim about multiple dimensions.
-Fallacy type: fallacy of relevance
-
-Example argument: Person 1: Pets are allowed in some managed buildings. Person 2: So you're suggesting that management encourages pest infestation and ruins property values through pet allowance? That's a ridiculous notion.
-Correct reasoning and fallacy: This is a fallacy of extension; the second person grossly misrepresents a benign statement about pet policies as advocating for pest infestation.
-Fallacy type: fallacy of extension
-
-Example argument: First senator: The nation is in debt and we should not add to the defense budget.
-Second senator: I cannot believe you want to leave the nation defenseless!
-Correct reasoning and fallacy: This is a fallacy of extension; the second senator distorts a call for fiscal responsibility into an accusation of wanting to leave the nation defenseless.
-Fallacy type: fallacy of extension
+Correct reasoning and fallacy: This is a fallacy of extension; Person B exaggerates and misrepresents Person A’s statement by turning it into an accusation of laziness.

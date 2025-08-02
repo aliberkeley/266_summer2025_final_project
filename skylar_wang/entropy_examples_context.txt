@@ -1,44 +1,30 @@
-Example argument: The lady in the pink dress is Julia Roberts.
-The reporter thinks Julia Roberts drives a Prius.
-Therefore, the reporter thinks the lady in the pink dress drives a Prius.
-Correct reasoning and fallacy: This is a deductive fallacy because it incorrectly assumes that the reporter’s belief about Julia Roberts transfers to the lady in the pink dress without confirming that the reporter knows the woman is Julia Roberts.
-Fallacy type: deductive fallacy
+Example argument: I have a right to free speech so I can say what I want and you shouldn't try to stop me.
+Correct reasoning and fallacy: This is circular reasoning because the conclusion that the speaker can say what they want is justified solely by restating the premise that they have free speech.
 
-Example argument: I guess I should buy my 12-year-old daughter an iPhone. Everyone at her new school has one, and I want her to fit in with the other kids.
-Correct reasoning and fallacy: This is an ad populum fallacy, appealing to popularity by suggesting the daughter should get an iPhone simply because everyone else has one.
-Fallacy type: ad populum
+Example argument: Every Olympic athlete trains daily. But remember, sports bring people together.
+Correct reasoning and fallacy: This is a fallacy of relevance; the statement about sports bringing people together is irrelevant to the factual claim about Olympic athletes' training.
 
-Example argument: Some people believe in extraterrestrials. But crop circles look really artistic.
-Correct reasoning and fallacy: This is a fallacy of relevance; the artistic appearance of crop circles is unrelated to the truth of extraterrestrial existence.
-Fallacy type: fallacy of relevance
+Example argument: If you don't believe in God, you'll go to hell! is an example of:
+Correct reasoning and fallacy: This is an appeal to emotion; threatening eternal damnation is designed to provoke fear rather than provide a rational argument for belief in God.
 
-Example argument: First senator: The nation is in debt and we should not add to the defense budget.
-Second senator: I cannot believe you want to leave the nation defenseless!
-Correct reasoning and fallacy: This is a fallacy of extension, where one senator misrepresents the other's position against increased spending as wanting no defense at all.
-Fallacy type: fallacy of extension
+Example argument: If my family could not save sufficient funds, a trip to Europe would not be feasible. As yet, Everyone in my family has never been to Europe, thus implying that none have saved an adequate amount of money.
+Correct reasoning and fallacy: This is a deductive fallacy because it assumes that no family members have saved enough money based on the fact that they haven't traveled, which doesn’t logically follow.
 
-Example argument: You support capital punishment just because you want an “eye for an eye,” but I have several good reasons to believe that capital punishment is fundamentally wrong.
-Correct reasoning and fallacy: This is a fallacy of extension because it oversimplifies the opposing view as mere retribution, ignoring potentially valid arguments for capital punishment.
-Fallacy type: fallacy of extension
+Example argument: Do you support freedom and the right to bear arms ?
+Correct reasoning and fallacy: This is an intentional fallacy because it frames the issue emotionally, asking a loaded question that equates disagreement with opposing freedom.
 
-Example argument: You can't believe that the soccer game ended in a draw, can you? Think about the efforts that the players put in, they were incredibly passionate and played with all their hearts out.
-Correct reasoning and fallacy: This is an appeal to emotion; it suggests disbelief in the game's outcome based on the players' passion rather than the actual rules or score.
-Fallacy type: appeal to emotion
+Example argument: Lisa was brainwashed as a child into thinking that people are generally good.  Therefore, people are not generally good.
+Correct reasoning and fallacy: This is an ad hominem fallacy; it dismisses Lisa's belief based on her background (being brainwashed) rather than addressing the belief itself.
 
-Example argument: Let's go buy the iPhone X in spite of the $999 price tag--all of our friends have one already!
-Correct reasoning and fallacy: This is an ad populum fallacy that argues in favor of buying an iPhone based on the popularity among peers rather than the merits of the product.
-Fallacy type: ad populum
+Example argument: Parents today would rather their kids suppress their identity rather than just be who they are even if it doesn't go with the norm.
+Correct reasoning and fallacy: This is a faulty generalization, making a sweeping claim about all parents based on limited or anecdotal evidence.
 
-Example argument: Person A: I spent the day at the beach. Person B: So you're saying you have time to spend all day doing nothing, lazing around on the beach?
-Correct reasoning and fallacy: This is a fallacy of extension; Person B distorts Person A’s simple statement into an exaggerated accusation of laziness.
-Fallacy type: fallacy of extension
+Example argument: The medicine man rolled into town on his bandwagon offering various natural remedies, such as very special plain water. He said that it was only natural that people should be wary of 'artificial' medicines such as antibiotics.
+Correct reasoning and fallacy: This is a fallacy of credibility; the 'medicine man' presents himself as a trustworthy figure while using vague appeals to nature to undermine modern medicine.
 
-Example argument: Pastor Pete: People are turning to God everywhere!  9 out of 10 people I interviewed said that they had a personal relationship with Jesus Christ.
-Fred: Where did you find these people you interviewed?
-Pastor Pete: In my church.
-Correct reasoning and fallacy: This is a faulty generalization because it draws a broad conclusion about society based on responses from a biased sample taken at a church.
-Fallacy type: faulty generalization
+Example argument: Salesguy: You should definitely buy this car.  You look so good in it -- you look at least ten years younger behind that wheel.
+Tamera: I'll take it!
+Correct reasoning and fallacy: This is an appeal to emotion; the salesperson appeals to vanity and flattery rather than offering logical reasons to buy the car.
 
-Example argument: Students are listening to classical music. Only a hard-hearted person would argue against the profound power of classical music in molding young minds.
-Correct reasoning and fallacy: This is an appeal to emotion by implying that disagreeing with the statement makes someone cold-hearted, rather than addressing the argument rationally.
-Fallacy type: appeal to emotion
+Example argument: Which type of appeal is used in the following phrases from the Declaration of Independence: “appealing to the Supreme Judge of the world” and “with a firm reliance on the protection of divine providence”?
+Correct reasoning and fallacy: This is a fallacy of credibility; it appeals to divine authority ('Supreme Judge,' 'providence') as justification instead of providing rational arguments.

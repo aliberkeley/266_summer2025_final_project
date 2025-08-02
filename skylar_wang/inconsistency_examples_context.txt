@@ -1,40 +1,30 @@
-Example argument: Appeals to an authority that has little to nothing to do with the argument
-Correct reasoning and fallacy: This is a fallacy of credibility because it appeals to an authority figure who lacks relevant expertise on the topic, making the appeal unreliable.
-Fallacy type: fallacy of credibility
+Example argument: Snarl Words are an example of...
+Correct reasoning and fallacy: This is an appeal to emotion; 'snarl words' are used to provoke negative emotional reactions rather than engage with the argument logically.
 
-Example argument: The speaker/author chooses a deliberately (on purpose) bad or oversimplified example in order to ridicule (make fun of) or refute (prove wrong) an idea
-Correct reasoning and fallacy: This is a fallacy of extension where the speaker uses an intentionally weak or exaggerated version of the opponent’s argument to easily ridicule or refute it.
-Fallacy type: fallacy of extension
+Example argument: Repeating the same thing as if you're proving something
+Correct reasoning and fallacy: This is circular reasoning; repeating a claim without providing new evidence just restates the conclusion without support.
 
-Example argument: This is a fallacy of irrelevance that is based solely on someone's or something's history, origin, or source rather than its current meaning
-Correct reasoning and fallacy: This is an ad hominem fallacy, focusing on the origin or history of an idea rather than evaluating its current meaning or merit.
-Fallacy type: ad hominem
+Example argument: This fallacy suggests that unlikely or ridiculous outcomes are likely when there's just not enough evidence to think so.
+Correct reasoning and fallacy: This is a faulty generalization, likely referring to a slippery slope, where extreme outcomes are predicted without sufficient evidence.
 
 Example argument: This is an example of what?
 Attacks the arguer instead of the argument
-Correct reasoning and fallacy: This is an ad hominem fallacy where the speaker attacks the person making the argument rather than addressing the content of the argument itself.
-Fallacy type: ad hominem
+Correct reasoning and fallacy: This is an ad hominem fallacy; it attacks the person making the argument rather than the argument itself.
 
-Example argument: A misrepresentation of an opponent's position that makes it easier to argue against
-Correct reasoning and fallacy: This is a fallacy of extension because it misrepresents the opponent’s argument into a distorted version that’s easier to attack.
-Fallacy type: fallacy of extension
+Example argument: Someone who says something which does not flow logically in the conversation is guilty of using:
+Correct reasoning and fallacy: This is a deductive fallacy; saying something that doesn't logically follow in a conversation reflects a breakdown in logical structure or coherence.
 
-Example argument: an attempt to persuade the reader/audience based on feelings or emotions; emotional response
-Correct reasoning and fallacy: This is an appeal to emotion where persuasion is attempted through emotional manipulation rather than logical reasoning.
-Fallacy type: appeal to emotion
+Example argument: Conclude that because A happens then B, C, D, E, F, G, H, I, J, K, L… will inevitably happen.
+Correct reasoning and fallacy: This is a faulty generalization and slippery slope fallacy; it assumes one event (A) will inevitably lead to a chain of extreme consequences without justification.
 
 Example argument: This is an example of....
-Correct reasoning and fallacy: This is circular reasoning, where the conclusion is essentially a restatement of the premise, providing no actual proof.
-Fallacy type: circular reasoning
+Correct reasoning and fallacy: This is circular reasoning; it likely involves restating a claim as evidence for itself without introducing new reasoning.
 
-Example argument: Which of the following is true?
-Correct reasoning and fallacy: This is a fallacy of relevance where the content does not directly address the issue or question at hand, instead diverting attention.
-Fallacy type: fallacy of relevance
+Example argument: When the arguer is attacked vs. the argument that is attacked, this is an example of:
+Correct reasoning and fallacy: This is an ad hominem fallacy; it identifies the error of attacking the person instead of addressing their argument.
 
-Example argument: It is widely believed that Ted went to bed early, and therefore, it must be true.
-Correct reasoning and fallacy: This is an ad populum fallacy because it argues something must be true simply because many people believe it.
-Fallacy type: ad populum
+Example argument: Not all electric cars are green—just admit it already.
+Correct reasoning and fallacy: This is an intentional fallacy; it distracts or shifts blame by asserting an opinion while ignoring counterarguments or complexity.
 
-Example argument: Using a double standard or arguing for an unjustified exception.
-Correct reasoning and fallacy: This is an intentional fallacy, where a double standard or exception is argued without justification, misrepresenting intent or consistency.
-Fallacy type: intentional fallacy
+Example argument: Fred, do you still cheat on your girlfriend?
+Correct reasoning and fallacy: This is an intentional fallacy; the question is loaded and presumes guilt, making it impossible to answer without appearing guilty.
